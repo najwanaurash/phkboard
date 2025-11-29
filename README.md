@@ -46,3 +46,27 @@ Dashboard interaktif untuk menganalisis tren pemutusan hubungan kerja (PHK) di I
 
 ```bash
 pip install -r requirements.txt
+
+## 👥 Tim Pengembang
+
+### **Najwa Naura Salsabillah Herdiyana**
+- **Role**: Data Analyst & Frontend Developer
+- **GitHub**: [@najwanaurash](https://github.com/najwanaurash)
+- **Kontribusi**: 
+  - Data preprocessing dan cleaning
+  - Analisis eksploratori data (EDA)
+  - Visualisasi data dan dashboard design
+  - Dokumentasi proyek
+
+### **Yusril Ihza Al-hafidz**
+- **Role**: Machine Learning Engineer & Backend Developer
+- **GitHub**: [@yusrilihza427](https://github.com/yusrilihza427)
+- **Kontribusi**:
+  - Implementasi algoritma machine learning
+  - Clustering dengan K-Means
+  - Multiple linear regression
+  - Deployment dan optimization
+  - System architecture
+
+### 🎯 Kolaborasi
+Tim bekerja secara kolaboratif dalam pengembangan dashboard analitik ini, menggabungkan keahlian dalam data analysis dan machine learning untuk menciptakan solusi yang komprehensif dalam menganalisis tren PHK di Indonesia.
