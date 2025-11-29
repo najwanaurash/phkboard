@@ -1,0 +1,2041 @@
+tahun,provinsi,sektor,total_phk,skala_phk
+2019,Aceh,Tekstil,1176,Besar
+2019,Aceh,Industri Pengolahan,910,Besar
+2019,Aceh,Makanan & Minuman,1180,Besar
+2019,Aceh,Otomotif,1145,Besar
+2019,Aceh,Elektronik,1094,Besar
+2019,Aceh,Jasa,171,Kecil
+2019,Aceh,Konstruksi,516,Sedang
+2019,Aceh,Pariwisata,380,Sedang
+2019,Aceh,Tambang,137,Kecil
+2019,Aceh,Transportasi,1173,Besar
+2019,Sumatera Utara,Tekstil,921,Besar
+2019,Sumatera Utara,Industri Pengolahan,180,Kecil
+2019,Sumatera Utara,Makanan & Minuman,819,Besar
+2019,Sumatera Utara,Otomotif,393,Sedang
+2019,Sumatera Utara,Elektronik,855,Besar
+2019,Sumatera Utara,Jasa,435,Sedang
+2019,Sumatera Utara,Konstruksi,1005,Besar
+2019,Sumatera Utara,Pariwisata,326,Sedang
+2019,Sumatera Utara,Tambang,509,Sedang
+2019,Sumatera Utara,Transportasi,71,Kecil
+2019,Sumatera Barat,Tekstil,302,Sedang
+2019,Sumatera Barat,Industri Pengolahan,797,Besar
+2019,Sumatera Barat,Makanan & Minuman,906,Besar
+2019,Sumatera Barat,Otomotif,524,Sedang
+2019,Sumatera Barat,Elektronik,1132,Besar
+2019,Sumatera Barat,Jasa,560,Sedang
+2019,Sumatera Barat,Konstruksi,749,Besar
+2019,Sumatera Barat,Pariwisata,1025,Besar
+2019,Sumatera Barat,Tambang,239,Sedang
+2019,Sumatera Barat,Transportasi,1007,Besar
+2019,Riau,Tekstil,736,Besar
+2019,Riau,Industri Pengolahan,1007,Besar
+2019,Riau,Makanan & Minuman,612,Besar
+2019,Riau,Otomotif,881,Besar
+2019,Riau,Elektronik,696,Besar
+2019,Riau,Jasa,70,Kecil
+2019,Riau,Konstruksi,890,Besar
+2019,Riau,Pariwisata,216,Sedang
+2019,Riau,Tambang,437,Sedang
+2019,Riau,Transportasi,650,Besar
+2019,Jambi,Tekstil,365,Sedang
+2019,Jambi,Industri Pengolahan,63,Kecil
+2019,Jambi,Makanan & Minuman,291,Sedang
+2019,Jambi,Otomotif,826,Besar
+2019,Jambi,Elektronik,614,Besar
+2019,Jambi,Jasa,947,Besar
+2019,Jambi,Konstruksi,141,Kecil
+2019,Jambi,Pariwisata,1005,Besar
+2019,Jambi,Tambang,558,Sedang
+2019,Jambi,Transportasi,825,Besar
+2019,Sumatera Selatan,Tekstil,84,Kecil
+2019,Sumatera Selatan,Industri Pengolahan,255,Sedang
+2019,Sumatera Selatan,Makanan & Minuman,1154,Besar
+2019,Sumatera Selatan,Otomotif,1075,Besar
+2019,Sumatera Selatan,Elektronik,1071,Besar
+2019,Sumatera Selatan,Jasa,615,Besar
+2019,Sumatera Selatan,Konstruksi,1179,Besar
+2019,Sumatera Selatan,Pariwisata,752,Besar
+2019,Sumatera Selatan,Tambang,451,Sedang
+2019,Sumatera Selatan,Transportasi,779,Besar
+2019,Bengkulu,Tekstil,211,Sedang
+2019,Bengkulu,Industri Pengolahan,251,Sedang
+2019,Bengkulu,Makanan & Minuman,1045,Besar
+2019,Bengkulu,Otomotif,319,Sedang
+2019,Bengkulu,Elektronik,865,Besar
+2019,Bengkulu,Jasa,505,Sedang
+2019,Bengkulu,Konstruksi,1066,Besar
+2019,Bengkulu,Pariwisata,345,Sedang
+2019,Bengkulu,Tambang,769,Besar
+2019,Bengkulu,Transportasi,387,Sedang
+2019,Lampung,Tekstil,928,Besar
+2019,Lampung,Industri Pengolahan,1126,Besar
+2019,Lampung,Makanan & Minuman,841,Besar
+2019,Lampung,Otomotif,266,Sedang
+2019,Lampung,Elektronik,813,Besar
+2019,Lampung,Jasa,237,Sedang
+2019,Lampung,Konstruksi,429,Sedang
+2019,Lampung,Pariwisata,542,Sedang
+2019,Lampung,Tambang,1114,Besar
+2019,Lampung,Transportasi,64,Kecil
+2019,Kep. Bangka Belitung,Tekstil,114,Kecil
+2019,Kep. Bangka Belitung,Industri Pengolahan,570,Sedang
+2019,Kep. Bangka Belitung,Makanan & Minuman,697,Besar
+2019,Kep. Bangka Belitung,Otomotif,1136,Besar
+2019,Kep. Bangka Belitung,Elektronik,642,Besar
+2019,Kep. Bangka Belitung,Jasa,441,Sedang
+2019,Kep. Bangka Belitung,Konstruksi,468,Sedang
+2019,Kep. Bangka Belitung,Pariwisata,338,Sedang
+2019,Kep. Bangka Belitung,Tambang,428,Sedang
+2019,Kep. Bangka Belitung,Transportasi,280,Sedang
+2019,Kep. Riau,Tekstil,1067,Besar
+2019,Kep. Riau,Industri Pengolahan,90,Kecil
+2019,Kep. Riau,Makanan & Minuman,1101,Besar
+2019,Kep. Riau,Otomotif,184,Kecil
+2019,Kep. Riau,Elektronik,250,Sedang
+2019,Kep. Riau,Jasa,829,Besar
+2019,Kep. Riau,Konstruksi,979,Besar
+2019,Kep. Riau,Pariwisata,1106,Besar
+2019,Kep. Riau,Tambang,1121,Besar
+2019,Kep. Riau,Transportasi,552,Sedang
+2019,DKI Jakarta,Tekstil,456,Sedang
+2019,DKI Jakarta,Industri Pengolahan,854,Besar
+2019,DKI Jakarta,Makanan & Minuman,148,Kecil
+2019,DKI Jakarta,Otomotif,733,Besar
+2019,DKI Jakarta,Elektronik,775,Besar
+2019,DKI Jakarta,Jasa,1010,Besar
+2019,DKI Jakarta,Konstruksi,662,Besar
+2019,DKI Jakarta,Pariwisata,692,Besar
+2019,DKI Jakarta,Tambang,1078,Besar
+2019,DKI Jakarta,Transportasi,552,Sedang
+2019,Jawa Barat,Tekstil,816,Besar
+2019,Jawa Barat,Industri Pengolahan,447,Sedang
+2019,Jawa Barat,Makanan & Minuman,920,Besar
+2019,Jawa Barat,Otomotif,844,Besar
+2019,Jawa Barat,Elektronik,442,Sedang
+2019,Jawa Barat,Jasa,256,Sedang
+2019,Jawa Barat,Konstruksi,1088,Besar
+2019,Jawa Barat,Pariwisata,941,Besar
+2019,Jawa Barat,Tambang,913,Besar
+2019,Jawa Barat,Transportasi,792,Besar
+2019,Jawa Tengah,Tekstil,613,Besar
+2019,Jawa Tengah,Industri Pengolahan,1070,Besar
+2019,Jawa Tengah,Makanan & Minuman,145,Kecil
+2019,Jawa Tengah,Otomotif,534,Sedang
+2019,Jawa Tengah,Elektronik,280,Sedang
+2019,Jawa Tengah,Jasa,798,Besar
+2019,Jawa Tengah,Konstruksi,590,Sedang
+2019,Jawa Tengah,Pariwisata,1109,Besar
+2019,Jawa Tengah,Tambang,574,Sedang
+2019,Jawa Tengah,Transportasi,1159,Besar
+2019,DI Yogyakarta,Tekstil,627,Besar
+2019,DI Yogyakarta,Industri Pengolahan,731,Besar
+2019,DI Yogyakarta,Makanan & Minuman,606,Besar
+2019,DI Yogyakarta,Otomotif,1062,Besar
+2019,DI Yogyakarta,Elektronik,695,Besar
+2019,DI Yogyakarta,Jasa,845,Besar
+2019,DI Yogyakarta,Konstruksi,1101,Besar
+2019,DI Yogyakarta,Pariwisata,239,Sedang
+2019,DI Yogyakarta,Tambang,682,Besar
+2019,DI Yogyakarta,Transportasi,677,Besar
+2019,Jawa Timur,Tekstil,1022,Besar
+2019,Jawa Timur,Industri Pengolahan,759,Besar
+2019,Jawa Timur,Makanan & Minuman,698,Besar
+2019,Jawa Timur,Otomotif,367,Sedang
+2019,Jawa Timur,Elektronik,733,Besar
+2019,Jawa Timur,Jasa,713,Besar
+2019,Jawa Timur,Konstruksi,1186,Besar
+2019,Jawa Timur,Pariwisata,491,Sedang
+2019,Jawa Timur,Tambang,613,Besar
+2019,Jawa Timur,Transportasi,1186,Besar
+2019,Banten,Tekstil,1001,Besar
+2019,Banten,Industri Pengolahan,1154,Besar
+2019,Banten,Makanan & Minuman,748,Besar
+2019,Banten,Otomotif,162,Kecil
+2019,Banten,Elektronik,51,Kecil
+2019,Banten,Jasa,691,Besar
+2019,Banten,Konstruksi,269,Sedang
+2019,Banten,Pariwisata,904,Besar
+2019,Banten,Tambang,434,Sedang
+2019,Banten,Transportasi,1126,Besar
+2019,Bali,Tekstil,779,Besar
+2019,Bali,Industri Pengolahan,296,Sedang
+2019,Bali,Makanan & Minuman,885,Besar
+2019,Bali,Otomotif,252,Sedang
+2019,Bali,Elektronik,172,Kecil
+2019,Bali,Jasa,450,Sedang
+2019,Bali,Konstruksi,816,Besar
+2019,Bali,Pariwisata,343,Sedang
+2019,Bali,Tambang,329,Sedang
+2019,Bali,Transportasi,933,Besar
+2019,Nusa Tenggara Barat,Tekstil,247,Sedang
+2019,Nusa Tenggara Barat,Industri Pengolahan,1031,Besar
+2019,Nusa Tenggara Barat,Makanan & Minuman,801,Besar
+2019,Nusa Tenggara Barat,Otomotif,193,Kecil
+2019,Nusa Tenggara Barat,Elektronik,658,Besar
+2019,Nusa Tenggara Barat,Jasa,1197,Besar
+2019,Nusa Tenggara Barat,Konstruksi,236,Sedang
+2019,Nusa Tenggara Barat,Pariwisata,513,Sedang
+2019,Nusa Tenggara Barat,Tambang,709,Besar
+2019,Nusa Tenggara Barat,Transportasi,813,Besar
+2019,Nusa Tenggara Timur,Tekstil,1004,Besar
+2019,Nusa Tenggara Timur,Industri Pengolahan,452,Sedang
+2019,Nusa Tenggara Timur,Makanan & Minuman,196,Kecil
+2019,Nusa Tenggara Timur,Otomotif,913,Besar
+2019,Nusa Tenggara Timur,Elektronik,538,Sedang
+2019,Nusa Tenggara Timur,Jasa,978,Besar
+2019,Nusa Tenggara Timur,Konstruksi,600,Besar
+2019,Nusa Tenggara Timur,Pariwisata,387,Sedang
+2019,Nusa Tenggara Timur,Tambang,921,Besar
+2019,Nusa Tenggara Timur,Transportasi,690,Besar
+2019,Kalimantan Barat,Tekstil,522,Sedang
+2019,Kalimantan Barat,Industri Pengolahan,200,Sedang
+2019,Kalimantan Barat,Makanan & Minuman,312,Sedang
+2019,Kalimantan Barat,Otomotif,193,Kecil
+2019,Kalimantan Barat,Elektronik,395,Sedang
+2019,Kalimantan Barat,Jasa,673,Besar
+2019,Kalimantan Barat,Konstruksi,1066,Besar
+2019,Kalimantan Barat,Pariwisata,930,Besar
+2019,Kalimantan Barat,Tambang,51,Kecil
+2019,Kalimantan Barat,Transportasi,946,Besar
+2019,Kalimantan Tengah,Tekstil,303,Sedang
+2019,Kalimantan Tengah,Industri Pengolahan,502,Sedang
+2019,Kalimantan Tengah,Makanan & Minuman,1110,Besar
+2019,Kalimantan Tengah,Otomotif,1064,Besar
+2019,Kalimantan Tengah,Elektronik,58,Kecil
+2019,Kalimantan Tengah,Jasa,1172,Besar
+2019,Kalimantan Tengah,Konstruksi,865,Besar
+2019,Kalimantan Tengah,Pariwisata,257,Sedang
+2019,Kalimantan Tengah,Tambang,453,Sedang
+2019,Kalimantan Tengah,Transportasi,201,Sedang
+2019,Kalimantan Selatan,Tekstil,103,Kecil
+2019,Kalimantan Selatan,Industri Pengolahan,1193,Besar
+2019,Kalimantan Selatan,Makanan & Minuman,677,Besar
+2019,Kalimantan Selatan,Otomotif,636,Besar
+2019,Kalimantan Selatan,Elektronik,153,Kecil
+2019,Kalimantan Selatan,Jasa,303,Sedang
+2019,Kalimantan Selatan,Konstruksi,1185,Besar
+2019,Kalimantan Selatan,Pariwisata,559,Sedang
+2019,Kalimantan Selatan,Tambang,148,Kecil
+2019,Kalimantan Selatan,Transportasi,202,Sedang
+2019,Kalimantan Timur,Tekstil,963,Besar
+2019,Kalimantan Timur,Industri Pengolahan,927,Besar
+2019,Kalimantan Timur,Makanan & Minuman,387,Sedang
+2019,Kalimantan Timur,Otomotif,871,Besar
+2019,Kalimantan Timur,Elektronik,1006,Besar
+2019,Kalimantan Timur,Jasa,210,Sedang
+2019,Kalimantan Timur,Konstruksi,850,Besar
+2019,Kalimantan Timur,Pariwisata,447,Sedang
+2019,Kalimantan Timur,Tambang,865,Besar
+2019,Kalimantan Timur,Transportasi,450,Sedang
+2019,Kalimantan Utara,Tekstil,689,Besar
+2019,Kalimantan Utara,Industri Pengolahan,1106,Besar
+2019,Kalimantan Utara,Makanan & Minuman,737,Besar
+2019,Kalimantan Utara,Otomotif,509,Sedang
+2019,Kalimantan Utara,Elektronik,1004,Besar
+2019,Kalimantan Utara,Jasa,519,Sedang
+2019,Kalimantan Utara,Konstruksi,1095,Besar
+2019,Kalimantan Utara,Pariwisata,799,Besar
+2019,Kalimantan Utara,Tambang,87,Kecil
+2019,Kalimantan Utara,Transportasi,279,Sedang
+2019,Sulawesi Utara,Tekstil,612,Besar
+2019,Sulawesi Utara,Industri Pengolahan,487,Sedang
+2019,Sulawesi Utara,Makanan & Minuman,76,Kecil
+2019,Sulawesi Utara,Otomotif,275,Sedang
+2019,Sulawesi Utara,Elektronik,847,Besar
+2019,Sulawesi Utara,Jasa,333,Sedang
+2019,Sulawesi Utara,Konstruksi,928,Besar
+2019,Sulawesi Utara,Pariwisata,1009,Besar
+2019,Sulawesi Utara,Tambang,502,Sedang
+2019,Sulawesi Utara,Transportasi,1069,Besar
+2019,Sulawesi Tengah,Tekstil,865,Besar
+2019,Sulawesi Tengah,Industri Pengolahan,708,Besar
+2019,Sulawesi Tengah,Makanan & Minuman,596,Sedang
+2019,Sulawesi Tengah,Otomotif,1122,Besar
+2019,Sulawesi Tengah,Elektronik,66,Kecil
+2019,Sulawesi Tengah,Jasa,207,Sedang
+2019,Sulawesi Tengah,Konstruksi,526,Sedang
+2019,Sulawesi Tengah,Pariwisata,1119,Besar
+2019,Sulawesi Tengah,Tambang,567,Sedang
+2019,Sulawesi Tengah,Transportasi,148,Kecil
+2019,Sulawesi Selatan,Tekstil,1110,Besar
+2019,Sulawesi Selatan,Industri Pengolahan,329,Sedang
+2019,Sulawesi Selatan,Makanan & Minuman,546,Sedang
+2019,Sulawesi Selatan,Otomotif,351,Sedang
+2019,Sulawesi Selatan,Elektronik,230,Sedang
+2019,Sulawesi Selatan,Jasa,656,Besar
+2019,Sulawesi Selatan,Konstruksi,1172,Besar
+2019,Sulawesi Selatan,Pariwisata,749,Besar
+2019,Sulawesi Selatan,Tambang,1042,Besar
+2019,Sulawesi Selatan,Transportasi,1189,Besar
+2019,Sulawesi Tenggara,Tekstil,240,Sedang
+2019,Sulawesi Tenggara,Industri Pengolahan,302,Sedang
+2019,Sulawesi Tenggara,Makanan & Minuman,1030,Besar
+2019,Sulawesi Tenggara,Otomotif,977,Besar
+2019,Sulawesi Tenggara,Elektronik,177,Kecil
+2019,Sulawesi Tenggara,Jasa,67,Kecil
+2019,Sulawesi Tenggara,Konstruksi,615,Besar
+2019,Sulawesi Tenggara,Pariwisata,619,Besar
+2019,Sulawesi Tenggara,Tambang,735,Besar
+2019,Sulawesi Tenggara,Transportasi,675,Besar
+2019,Gorontalo,Tekstil,903,Besar
+2019,Gorontalo,Industri Pengolahan,1011,Besar
+2019,Gorontalo,Makanan & Minuman,204,Sedang
+2019,Gorontalo,Otomotif,539,Sedang
+2019,Gorontalo,Elektronik,834,Besar
+2019,Gorontalo,Jasa,1177,Besar
+2019,Gorontalo,Konstruksi,295,Sedang
+2019,Gorontalo,Pariwisata,1112,Besar
+2019,Gorontalo,Tambang,808,Besar
+2019,Gorontalo,Transportasi,587,Sedang
+2019,Sulawesi Barat,Tekstil,970,Besar
+2019,Sulawesi Barat,Industri Pengolahan,457,Sedang
+2019,Sulawesi Barat,Makanan & Minuman,574,Sedang
+2019,Sulawesi Barat,Otomotif,877,Besar
+2019,Sulawesi Barat,Elektronik,952,Besar
+2019,Sulawesi Barat,Jasa,85,Kecil
+2019,Sulawesi Barat,Konstruksi,734,Besar
+2019,Sulawesi Barat,Pariwisata,69,Kecil
+2019,Sulawesi Barat,Tambang,370,Sedang
+2019,Sulawesi Barat,Transportasi,561,Sedang
+2019,Maluku,Tekstil,449,Sedang
+2019,Maluku,Industri Pengolahan,703,Besar
+2019,Maluku,Makanan & Minuman,1021,Besar
+2019,Maluku,Otomotif,520,Sedang
+2019,Maluku,Elektronik,1165,Besar
+2019,Maluku,Jasa,883,Besar
+2019,Maluku,Konstruksi,776,Besar
+2019,Maluku,Pariwisata,903,Besar
+2019,Maluku,Tambang,100,Kecil
+2019,Maluku,Transportasi,624,Besar
+2019,Maluku Utara,Tekstil,1198,Besar
+2019,Maluku Utara,Industri Pengolahan,199,Kecil
+2019,Maluku Utara,Makanan & Minuman,363,Sedang
+2019,Maluku Utara,Otomotif,619,Besar
+2019,Maluku Utara,Elektronik,354,Sedang
+2019,Maluku Utara,Jasa,731,Besar
+2019,Maluku Utara,Konstruksi,887,Besar
+2019,Maluku Utara,Pariwisata,1127,Besar
+2019,Maluku Utara,Tambang,1052,Besar
+2019,Maluku Utara,Transportasi,493,Sedang
+2019,Papua,Tekstil,662,Besar
+2019,Papua,Industri Pengolahan,1042,Besar
+2019,Papua,Makanan & Minuman,313,Sedang
+2019,Papua,Otomotif,1126,Besar
+2019,Papua,Elektronik,1053,Besar
+2019,Papua,Jasa,54,Kecil
+2019,Papua,Konstruksi,1176,Besar
+2019,Papua,Pariwisata,823,Besar
+2019,Papua,Tambang,926,Besar
+2019,Papua,Transportasi,1041,Besar
+2019,Papua Barat,Tekstil,933,Besar
+2019,Papua Barat,Industri Pengolahan,96,Kecil
+2019,Papua Barat,Makanan & Minuman,916,Besar
+2019,Papua Barat,Otomotif,872,Besar
+2019,Papua Barat,Elektronik,985,Besar
+2019,Papua Barat,Jasa,705,Besar
+2019,Papua Barat,Konstruksi,318,Sedang
+2019,Papua Barat,Pariwisata,419,Sedang
+2019,Papua Barat,Tambang,685,Besar
+2019,Papua Barat,Transportasi,1179,Besar
+2020,Aceh,Tekstil,706,Besar
+2020,Aceh,Industri Pengolahan,169,Kecil
+2020,Aceh,Makanan & Minuman,880,Besar
+2020,Aceh,Otomotif,1131,Besar
+2020,Aceh,Elektronik,790,Besar
+2020,Aceh,Jasa,166,Kecil
+2020,Aceh,Konstruksi,840,Besar
+2020,Aceh,Pariwisata,1062,Besar
+2020,Aceh,Tambang,1131,Besar
+2020,Aceh,Transportasi,683,Besar
+2020,Sumatera Utara,Tekstil,562,Sedang
+2020,Sumatera Utara,Industri Pengolahan,851,Besar
+2020,Sumatera Utara,Makanan & Minuman,1169,Besar
+2020,Sumatera Utara,Otomotif,1191,Besar
+2020,Sumatera Utara,Elektronik,609,Besar
+2020,Sumatera Utara,Jasa,537,Sedang
+2020,Sumatera Utara,Konstruksi,946,Besar
+2020,Sumatera Utara,Pariwisata,753,Besar
+2020,Sumatera Utara,Tambang,630,Besar
+2020,Sumatera Utara,Transportasi,839,Besar
+2020,Sumatera Barat,Tekstil,910,Besar
+2020,Sumatera Barat,Industri Pengolahan,296,Sedang
+2020,Sumatera Barat,Makanan & Minuman,1149,Besar
+2020,Sumatera Barat,Otomotif,203,Sedang
+2020,Sumatera Barat,Elektronik,1046,Besar
+2020,Sumatera Barat,Jasa,1159,Besar
+2020,Sumatera Barat,Konstruksi,746,Besar
+2020,Sumatera Barat,Pariwisata,1142,Besar
+2020,Sumatera Barat,Tambang,1120,Besar
+2020,Sumatera Barat,Transportasi,1058,Besar
+2020,Riau,Tekstil,143,Kecil
+2020,Riau,Industri Pengolahan,1007,Besar
+2020,Riau,Makanan & Minuman,1061,Besar
+2020,Riau,Otomotif,502,Sedang
+2020,Riau,Elektronik,961,Besar
+2020,Riau,Jasa,267,Sedang
+2020,Riau,Konstruksi,523,Sedang
+2020,Riau,Pariwisata,481,Sedang
+2020,Riau,Tambang,390,Sedang
+2020,Riau,Transportasi,600,Besar
+2020,Jambi,Tekstil,406,Sedang
+2020,Jambi,Industri Pengolahan,72,Kecil
+2020,Jambi,Makanan & Minuman,571,Sedang
+2020,Jambi,Otomotif,1173,Besar
+2020,Jambi,Elektronik,851,Besar
+2020,Jambi,Jasa,811,Besar
+2020,Jambi,Konstruksi,491,Sedang
+2020,Jambi,Pariwisata,818,Besar
+2020,Jambi,Tambang,1065,Besar
+2020,Jambi,Transportasi,565,Sedang
+2020,Sumatera Selatan,Tekstil,1089,Besar
+2020,Sumatera Selatan,Industri Pengolahan,841,Besar
+2020,Sumatera Selatan,Makanan & Minuman,385,Sedang
+2020,Sumatera Selatan,Otomotif,307,Sedang
+2020,Sumatera Selatan,Elektronik,546,Sedang
+2020,Sumatera Selatan,Jasa,945,Besar
+2020,Sumatera Selatan,Konstruksi,209,Sedang
+2020,Sumatera Selatan,Pariwisata,901,Besar
+2020,Sumatera Selatan,Tambang,739,Besar
+2020,Sumatera Selatan,Transportasi,429,Sedang
+2020,Bengkulu,Tekstil,1006,Besar
+2020,Bengkulu,Industri Pengolahan,740,Besar
+2020,Bengkulu,Makanan & Minuman,1116,Besar
+2020,Bengkulu,Otomotif,334,Sedang
+2020,Bengkulu,Elektronik,446,Sedang
+2020,Bengkulu,Jasa,61,Kecil
+2020,Bengkulu,Konstruksi,548,Sedang
+2020,Bengkulu,Pariwisata,803,Besar
+2020,Bengkulu,Tambang,84,Kecil
+2020,Bengkulu,Transportasi,776,Besar
+2020,Lampung,Tekstil,898,Besar
+2020,Lampung,Industri Pengolahan,139,Kecil
+2020,Lampung,Makanan & Minuman,825,Besar
+2020,Lampung,Otomotif,654,Besar
+2020,Lampung,Elektronik,1019,Besar
+2020,Lampung,Jasa,1071,Besar
+2020,Lampung,Konstruksi,467,Sedang
+2020,Lampung,Pariwisata,164,Kecil
+2020,Lampung,Tambang,666,Besar
+2020,Lampung,Transportasi,875,Besar
+2020,Kep. Bangka Belitung,Tekstil,1148,Besar
+2020,Kep. Bangka Belitung,Industri Pengolahan,462,Sedang
+2020,Kep. Bangka Belitung,Makanan & Minuman,778,Besar
+2020,Kep. Bangka Belitung,Otomotif,1070,Besar
+2020,Kep. Bangka Belitung,Elektronik,810,Besar
+2020,Kep. Bangka Belitung,Jasa,725,Besar
+2020,Kep. Bangka Belitung,Konstruksi,506,Sedang
+2020,Kep. Bangka Belitung,Pariwisata,969,Besar
+2020,Kep. Bangka Belitung,Tambang,241,Sedang
+2020,Kep. Bangka Belitung,Transportasi,788,Besar
+2020,Kep. Riau,Tekstil,1172,Besar
+2020,Kep. Riau,Industri Pengolahan,1027,Besar
+2020,Kep. Riau,Makanan & Minuman,1058,Besar
+2020,Kep. Riau,Otomotif,145,Kecil
+2020,Kep. Riau,Elektronik,712,Besar
+2020,Kep. Riau,Jasa,86,Kecil
+2020,Kep. Riau,Konstruksi,328,Sedang
+2020,Kep. Riau,Pariwisata,266,Sedang
+2020,Kep. Riau,Tambang,916,Besar
+2020,Kep. Riau,Transportasi,922,Besar
+2020,DKI Jakarta,Tekstil,111,Kecil
+2020,DKI Jakarta,Industri Pengolahan,645,Besar
+2020,DKI Jakarta,Makanan & Minuman,778,Besar
+2020,DKI Jakarta,Otomotif,446,Sedang
+2020,DKI Jakarta,Elektronik,748,Besar
+2020,DKI Jakarta,Jasa,1092,Besar
+2020,DKI Jakarta,Konstruksi,226,Sedang
+2020,DKI Jakarta,Pariwisata,445,Sedang
+2020,DKI Jakarta,Tambang,494,Sedang
+2020,DKI Jakarta,Transportasi,125,Kecil
+2020,Jawa Barat,Tekstil,314,Sedang
+2020,Jawa Barat,Industri Pengolahan,504,Sedang
+2020,Jawa Barat,Makanan & Minuman,767,Besar
+2020,Jawa Barat,Otomotif,784,Besar
+2020,Jawa Barat,Elektronik,900,Besar
+2020,Jawa Barat,Jasa,193,Kecil
+2020,Jawa Barat,Konstruksi,934,Besar
+2020,Jawa Barat,Pariwisata,1142,Besar
+2020,Jawa Barat,Tambang,1172,Besar
+2020,Jawa Barat,Transportasi,445,Sedang
+2020,Jawa Tengah,Tekstil,1098,Besar
+2020,Jawa Tengah,Industri Pengolahan,997,Besar
+2020,Jawa Tengah,Makanan & Minuman,940,Besar
+2020,Jawa Tengah,Otomotif,618,Besar
+2020,Jawa Tengah,Elektronik,1112,Besar
+2020,Jawa Tengah,Jasa,158,Kecil
+2020,Jawa Tengah,Konstruksi,1115,Besar
+2020,Jawa Tengah,Pariwisata,984,Besar
+2020,Jawa Tengah,Tambang,447,Sedang
+2020,Jawa Tengah,Transportasi,683,Besar
+2020,DI Yogyakarta,Tekstil,782,Besar
+2020,DI Yogyakarta,Industri Pengolahan,284,Sedang
+2020,DI Yogyakarta,Makanan & Minuman,707,Besar
+2020,DI Yogyakarta,Otomotif,800,Besar
+2020,DI Yogyakarta,Elektronik,637,Besar
+2020,DI Yogyakarta,Jasa,1082,Besar
+2020,DI Yogyakarta,Konstruksi,1147,Besar
+2020,DI Yogyakarta,Pariwisata,1003,Besar
+2020,DI Yogyakarta,Tambang,541,Sedang
+2020,DI Yogyakarta,Transportasi,962,Besar
+2020,Jawa Timur,Tekstil,219,Sedang
+2020,Jawa Timur,Industri Pengolahan,995,Besar
+2020,Jawa Timur,Makanan & Minuman,844,Besar
+2020,Jawa Timur,Otomotif,683,Besar
+2020,Jawa Timur,Elektronik,78,Kecil
+2020,Jawa Timur,Jasa,388,Sedang
+2020,Jawa Timur,Konstruksi,549,Sedang
+2020,Jawa Timur,Pariwisata,560,Sedang
+2020,Jawa Timur,Tambang,266,Sedang
+2020,Jawa Timur,Transportasi,1143,Besar
+2020,Banten,Tekstil,494,Sedang
+2020,Banten,Industri Pengolahan,925,Besar
+2020,Banten,Makanan & Minuman,216,Sedang
+2020,Banten,Otomotif,140,Kecil
+2020,Banten,Elektronik,763,Besar
+2020,Banten,Jasa,88,Kecil
+2020,Banten,Konstruksi,1199,Besar
+2020,Banten,Pariwisata,222,Sedang
+2020,Banten,Tambang,702,Besar
+2020,Banten,Transportasi,803,Besar
+2020,Bali,Tekstil,1131,Besar
+2020,Bali,Industri Pengolahan,525,Sedang
+2020,Bali,Makanan & Minuman,505,Sedang
+2020,Bali,Otomotif,878,Besar
+2020,Bali,Elektronik,944,Besar
+2020,Bali,Jasa,1074,Besar
+2020,Bali,Konstruksi,436,Sedang
+2020,Bali,Pariwisata,397,Sedang
+2020,Bali,Tambang,239,Sedang
+2020,Bali,Transportasi,554,Sedang
+2020,Nusa Tenggara Barat,Tekstil,873,Besar
+2020,Nusa Tenggara Barat,Industri Pengolahan,978,Besar
+2020,Nusa Tenggara Barat,Makanan & Minuman,983,Besar
+2020,Nusa Tenggara Barat,Otomotif,1190,Besar
+2020,Nusa Tenggara Barat,Elektronik,183,Kecil
+2020,Nusa Tenggara Barat,Jasa,107,Kecil
+2020,Nusa Tenggara Barat,Konstruksi,734,Besar
+2020,Nusa Tenggara Barat,Pariwisata,721,Besar
+2020,Nusa Tenggara Barat,Tambang,222,Sedang
+2020,Nusa Tenggara Barat,Transportasi,864,Besar
+2020,Nusa Tenggara Timur,Tekstil,129,Kecil
+2020,Nusa Tenggara Timur,Industri Pengolahan,935,Besar
+2020,Nusa Tenggara Timur,Makanan & Minuman,252,Sedang
+2020,Nusa Tenggara Timur,Otomotif,813,Besar
+2020,Nusa Tenggara Timur,Elektronik,96,Kecil
+2020,Nusa Tenggara Timur,Jasa,705,Besar
+2020,Nusa Tenggara Timur,Konstruksi,520,Sedang
+2020,Nusa Tenggara Timur,Pariwisata,1020,Besar
+2020,Nusa Tenggara Timur,Tambang,1085,Besar
+2020,Nusa Tenggara Timur,Transportasi,785,Besar
+2020,Kalimantan Barat,Tekstil,833,Besar
+2020,Kalimantan Barat,Industri Pengolahan,1017,Besar
+2020,Kalimantan Barat,Makanan & Minuman,407,Sedang
+2020,Kalimantan Barat,Otomotif,1021,Besar
+2020,Kalimantan Barat,Elektronik,717,Besar
+2020,Kalimantan Barat,Jasa,422,Sedang
+2020,Kalimantan Barat,Konstruksi,1081,Besar
+2020,Kalimantan Barat,Pariwisata,1195,Besar
+2020,Kalimantan Barat,Tambang,725,Besar
+2020,Kalimantan Barat,Transportasi,139,Kecil
+2020,Kalimantan Tengah,Tekstil,747,Besar
+2020,Kalimantan Tengah,Industri Pengolahan,589,Sedang
+2020,Kalimantan Tengah,Makanan & Minuman,781,Besar
+2020,Kalimantan Tengah,Otomotif,918,Besar
+2020,Kalimantan Tengah,Elektronik,90,Kecil
+2020,Kalimantan Tengah,Jasa,789,Besar
+2020,Kalimantan Tengah,Konstruksi,551,Sedang
+2020,Kalimantan Tengah,Pariwisata,1008,Besar
+2020,Kalimantan Tengah,Tambang,978,Besar
+2020,Kalimantan Tengah,Transportasi,510,Sedang
+2020,Kalimantan Selatan,Tekstil,781,Besar
+2020,Kalimantan Selatan,Industri Pengolahan,801,Besar
+2020,Kalimantan Selatan,Makanan & Minuman,974,Besar
+2020,Kalimantan Selatan,Otomotif,958,Besar
+2020,Kalimantan Selatan,Elektronik,439,Sedang
+2020,Kalimantan Selatan,Jasa,932,Besar
+2020,Kalimantan Selatan,Konstruksi,305,Sedang
+2020,Kalimantan Selatan,Pariwisata,758,Besar
+2020,Kalimantan Selatan,Tambang,499,Sedang
+2020,Kalimantan Selatan,Transportasi,59,Kecil
+2020,Kalimantan Timur,Tekstil,873,Besar
+2020,Kalimantan Timur,Industri Pengolahan,847,Besar
+2020,Kalimantan Timur,Makanan & Minuman,926,Besar
+2020,Kalimantan Timur,Otomotif,1078,Besar
+2020,Kalimantan Timur,Elektronik,1192,Besar
+2020,Kalimantan Timur,Jasa,1065,Besar
+2020,Kalimantan Timur,Konstruksi,423,Sedang
+2020,Kalimantan Timur,Pariwisata,1138,Besar
+2020,Kalimantan Timur,Tambang,195,Kecil
+2020,Kalimantan Timur,Transportasi,273,Sedang
+2020,Kalimantan Utara,Tekstil,226,Sedang
+2020,Kalimantan Utara,Industri Pengolahan,902,Besar
+2020,Kalimantan Utara,Makanan & Minuman,112,Kecil
+2020,Kalimantan Utara,Otomotif,876,Besar
+2020,Kalimantan Utara,Elektronik,844,Besar
+2020,Kalimantan Utara,Jasa,738,Besar
+2020,Kalimantan Utara,Konstruksi,154,Kecil
+2020,Kalimantan Utara,Pariwisata,1172,Besar
+2020,Kalimantan Utara,Tambang,560,Sedang
+2020,Kalimantan Utara,Transportasi,434,Sedang
+2020,Sulawesi Utara,Tekstil,454,Sedang
+2020,Sulawesi Utara,Industri Pengolahan,872,Besar
+2020,Sulawesi Utara,Makanan & Minuman,567,Sedang
+2020,Sulawesi Utara,Otomotif,525,Sedang
+2020,Sulawesi Utara,Elektronik,758,Besar
+2020,Sulawesi Utara,Jasa,820,Besar
+2020,Sulawesi Utara,Konstruksi,1096,Besar
+2020,Sulawesi Utara,Pariwisata,1046,Besar
+2020,Sulawesi Utara,Tambang,726,Besar
+2020,Sulawesi Utara,Transportasi,763,Besar
+2020,Sulawesi Tengah,Tekstil,132,Kecil
+2020,Sulawesi Tengah,Industri Pengolahan,1158,Besar
+2020,Sulawesi Tengah,Makanan & Minuman,1151,Besar
+2020,Sulawesi Tengah,Otomotif,506,Sedang
+2020,Sulawesi Tengah,Elektronik,50,Kecil
+2020,Sulawesi Tengah,Jasa,100,Kecil
+2020,Sulawesi Tengah,Konstruksi,734,Besar
+2020,Sulawesi Tengah,Pariwisata,766,Besar
+2020,Sulawesi Tengah,Tambang,498,Sedang
+2020,Sulawesi Tengah,Transportasi,930,Besar
+2020,Sulawesi Selatan,Tekstil,537,Sedang
+2020,Sulawesi Selatan,Industri Pengolahan,83,Kecil
+2020,Sulawesi Selatan,Makanan & Minuman,144,Kecil
+2020,Sulawesi Selatan,Otomotif,1145,Besar
+2020,Sulawesi Selatan,Elektronik,203,Sedang
+2020,Sulawesi Selatan,Jasa,299,Sedang
+2020,Sulawesi Selatan,Konstruksi,723,Besar
+2020,Sulawesi Selatan,Pariwisata,487,Sedang
+2020,Sulawesi Selatan,Tambang,167,Kecil
+2020,Sulawesi Selatan,Transportasi,820,Besar
+2020,Sulawesi Tenggara,Tekstil,317,Sedang
+2020,Sulawesi Tenggara,Industri Pengolahan,1127,Besar
+2020,Sulawesi Tenggara,Makanan & Minuman,285,Sedang
+2020,Sulawesi Tenggara,Otomotif,438,Sedang
+2020,Sulawesi Tenggara,Elektronik,1039,Besar
+2020,Sulawesi Tenggara,Jasa,812,Besar
+2020,Sulawesi Tenggara,Konstruksi,450,Sedang
+2020,Sulawesi Tenggara,Pariwisata,673,Besar
+2020,Sulawesi Tenggara,Tambang,816,Besar
+2020,Sulawesi Tenggara,Transportasi,968,Besar
+2020,Gorontalo,Tekstil,902,Besar
+2020,Gorontalo,Industri Pengolahan,627,Besar
+2020,Gorontalo,Makanan & Minuman,124,Kecil
+2020,Gorontalo,Otomotif,484,Sedang
+2020,Gorontalo,Elektronik,152,Kecil
+2020,Gorontalo,Jasa,813,Besar
+2020,Gorontalo,Konstruksi,787,Besar
+2020,Gorontalo,Pariwisata,855,Besar
+2020,Gorontalo,Tambang,147,Kecil
+2020,Gorontalo,Transportasi,847,Besar
+2020,Sulawesi Barat,Tekstil,908,Besar
+2020,Sulawesi Barat,Industri Pengolahan,484,Sedang
+2020,Sulawesi Barat,Makanan & Minuman,496,Sedang
+2020,Sulawesi Barat,Otomotif,298,Sedang
+2020,Sulawesi Barat,Elektronik,215,Sedang
+2020,Sulawesi Barat,Jasa,1033,Besar
+2020,Sulawesi Barat,Konstruksi,1069,Besar
+2020,Sulawesi Barat,Pariwisata,591,Sedang
+2020,Sulawesi Barat,Tambang,808,Besar
+2020,Sulawesi Barat,Transportasi,1179,Besar
+2020,Maluku,Tekstil,130,Kecil
+2020,Maluku,Industri Pengolahan,182,Kecil
+2020,Maluku,Makanan & Minuman,846,Besar
+2020,Maluku,Otomotif,949,Besar
+2020,Maluku,Elektronik,187,Kecil
+2020,Maluku,Jasa,233,Sedang
+2020,Maluku,Konstruksi,834,Besar
+2020,Maluku,Pariwisata,1033,Besar
+2020,Maluku,Tambang,118,Kecil
+2020,Maluku,Transportasi,595,Sedang
+2020,Maluku Utara,Tekstil,102,Kecil
+2020,Maluku Utara,Industri Pengolahan,254,Sedang
+2020,Maluku Utara,Makanan & Minuman,175,Kecil
+2020,Maluku Utara,Otomotif,92,Kecil
+2020,Maluku Utara,Elektronik,160,Kecil
+2020,Maluku Utara,Jasa,810,Besar
+2020,Maluku Utara,Konstruksi,897,Besar
+2020,Maluku Utara,Pariwisata,144,Kecil
+2020,Maluku Utara,Tambang,949,Besar
+2020,Maluku Utara,Transportasi,409,Sedang
+2020,Papua,Tekstil,949,Besar
+2020,Papua,Industri Pengolahan,330,Sedang
+2020,Papua,Makanan & Minuman,716,Besar
+2020,Papua,Otomotif,142,Kecil
+2020,Papua,Elektronik,721,Besar
+2020,Papua,Jasa,110,Kecil
+2020,Papua,Konstruksi,683,Besar
+2020,Papua,Pariwisata,1124,Besar
+2020,Papua,Tambang,1078,Besar
+2020,Papua,Transportasi,653,Besar
+2020,Papua Barat,Tekstil,731,Besar
+2020,Papua Barat,Industri Pengolahan,583,Sedang
+2020,Papua Barat,Makanan & Minuman,887,Besar
+2020,Papua Barat,Otomotif,694,Besar
+2020,Papua Barat,Elektronik,282,Sedang
+2020,Papua Barat,Jasa,573,Sedang
+2020,Papua Barat,Konstruksi,395,Sedang
+2020,Papua Barat,Pariwisata,1119,Besar
+2020,Papua Barat,Tambang,595,Sedang
+2020,Papua Barat,Transportasi,1151,Besar
+2021,Aceh,Tekstil,1146,Besar
+2021,Aceh,Industri Pengolahan,843,Besar
+2021,Aceh,Makanan & Minuman,298,Sedang
+2021,Aceh,Otomotif,96,Kecil
+2021,Aceh,Elektronik,1194,Besar
+2021,Aceh,Jasa,263,Sedang
+2021,Aceh,Konstruksi,288,Sedang
+2021,Aceh,Pariwisata,1129,Besar
+2021,Aceh,Tambang,399,Sedang
+2021,Aceh,Transportasi,156,Kecil
+2021,Sumatera Utara,Tekstil,880,Besar
+2021,Sumatera Utara,Industri Pengolahan,97,Kecil
+2021,Sumatera Utara,Makanan & Minuman,386,Sedang
+2021,Sumatera Utara,Otomotif,1099,Besar
+2021,Sumatera Utara,Elektronik,853,Besar
+2021,Sumatera Utara,Jasa,57,Kecil
+2021,Sumatera Utara,Konstruksi,674,Besar
+2021,Sumatera Utara,Pariwisata,768,Besar
+2021,Sumatera Utara,Tambang,352,Sedang
+2021,Sumatera Utara,Transportasi,688,Besar
+2021,Sumatera Barat,Tekstil,105,Kecil
+2021,Sumatera Barat,Industri Pengolahan,775,Besar
+2021,Sumatera Barat,Makanan & Minuman,575,Sedang
+2021,Sumatera Barat,Otomotif,523,Sedang
+2021,Sumatera Barat,Elektronik,77,Kecil
+2021,Sumatera Barat,Jasa,127,Kecil
+2021,Sumatera Barat,Konstruksi,414,Sedang
+2021,Sumatera Barat,Pariwisata,715,Besar
+2021,Sumatera Barat,Tambang,575,Sedang
+2021,Sumatera Barat,Transportasi,748,Besar
+2021,Riau,Tekstil,932,Besar
+2021,Riau,Industri Pengolahan,1080,Besar
+2021,Riau,Makanan & Minuman,1076,Besar
+2021,Riau,Otomotif,968,Besar
+2021,Riau,Elektronik,799,Besar
+2021,Riau,Jasa,412,Sedang
+2021,Riau,Konstruksi,855,Besar
+2021,Riau,Pariwisata,788,Besar
+2021,Riau,Tambang,1088,Besar
+2021,Riau,Transportasi,534,Sedang
+2021,Jambi,Tekstil,77,Kecil
+2021,Jambi,Industri Pengolahan,763,Besar
+2021,Jambi,Makanan & Minuman,1112,Besar
+2021,Jambi,Otomotif,135,Kecil
+2021,Jambi,Elektronik,175,Kecil
+2021,Jambi,Jasa,861,Besar
+2021,Jambi,Konstruksi,586,Sedang
+2021,Jambi,Pariwisata,194,Kecil
+2021,Jambi,Tambang,74,Kecil
+2021,Jambi,Transportasi,116,Kecil
+2021,Sumatera Selatan,Tekstil,282,Sedang
+2021,Sumatera Selatan,Industri Pengolahan,158,Kecil
+2021,Sumatera Selatan,Makanan & Minuman,160,Kecil
+2021,Sumatera Selatan,Otomotif,277,Sedang
+2021,Sumatera Selatan,Elektronik,160,Kecil
+2021,Sumatera Selatan,Jasa,83,Kecil
+2021,Sumatera Selatan,Konstruksi,672,Besar
+2021,Sumatera Selatan,Pariwisata,797,Besar
+2021,Sumatera Selatan,Tambang,644,Besar
+2021,Sumatera Selatan,Transportasi,474,Sedang
+2021,Bengkulu,Tekstil,662,Besar
+2021,Bengkulu,Industri Pengolahan,741,Besar
+2021,Bengkulu,Makanan & Minuman,364,Sedang
+2021,Bengkulu,Otomotif,926,Besar
+2021,Bengkulu,Elektronik,711,Besar
+2021,Bengkulu,Jasa,326,Sedang
+2021,Bengkulu,Konstruksi,673,Besar
+2021,Bengkulu,Pariwisata,565,Sedang
+2021,Bengkulu,Tambang,892,Besar
+2021,Bengkulu,Transportasi,399,Sedang
+2021,Lampung,Tekstil,872,Besar
+2021,Lampung,Industri Pengolahan,808,Besar
+2021,Lampung,Makanan & Minuman,948,Besar
+2021,Lampung,Otomotif,292,Sedang
+2021,Lampung,Elektronik,592,Sedang
+2021,Lampung,Jasa,1113,Besar
+2021,Lampung,Konstruksi,278,Sedang
+2021,Lampung,Pariwisata,597,Sedang
+2021,Lampung,Tambang,969,Besar
+2021,Lampung,Transportasi,55,Kecil
+2021,Kep. Bangka Belitung,Tekstil,517,Sedang
+2021,Kep. Bangka Belitung,Industri Pengolahan,124,Kecil
+2021,Kep. Bangka Belitung,Makanan & Minuman,53,Kecil
+2021,Kep. Bangka Belitung,Otomotif,695,Besar
+2021,Kep. Bangka Belitung,Elektronik,167,Kecil
+2021,Kep. Bangka Belitung,Jasa,930,Besar
+2021,Kep. Bangka Belitung,Konstruksi,553,Sedang
+2021,Kep. Bangka Belitung,Pariwisata,996,Besar
+2021,Kep. Bangka Belitung,Tambang,623,Besar
+2021,Kep. Bangka Belitung,Transportasi,243,Sedang
+2021,Kep. Riau,Tekstil,896,Besar
+2021,Kep. Riau,Industri Pengolahan,764,Besar
+2021,Kep. Riau,Makanan & Minuman,1099,Besar
+2021,Kep. Riau,Otomotif,222,Sedang
+2021,Kep. Riau,Elektronik,375,Sedang
+2021,Kep. Riau,Jasa,1191,Besar
+2021,Kep. Riau,Konstruksi,885,Besar
+2021,Kep. Riau,Pariwisata,773,Besar
+2021,Kep. Riau,Tambang,274,Sedang
+2021,Kep. Riau,Transportasi,581,Sedang
+2021,DKI Jakarta,Tekstil,162,Kecil
+2021,DKI Jakarta,Industri Pengolahan,189,Kecil
+2021,DKI Jakarta,Makanan & Minuman,608,Besar
+2021,DKI Jakarta,Otomotif,50,Kecil
+2021,DKI Jakarta,Elektronik,139,Kecil
+2021,DKI Jakarta,Jasa,703,Besar
+2021,DKI Jakarta,Konstruksi,369,Sedang
+2021,DKI Jakarta,Pariwisata,188,Kecil
+2021,DKI Jakarta,Tambang,894,Besar
+2021,DKI Jakarta,Transportasi,308,Sedang
+2021,Jawa Barat,Tekstil,951,Besar
+2021,Jawa Barat,Industri Pengolahan,739,Besar
+2021,Jawa Barat,Makanan & Minuman,59,Kecil
+2021,Jawa Barat,Otomotif,310,Sedang
+2021,Jawa Barat,Elektronik,221,Sedang
+2021,Jawa Barat,Jasa,947,Besar
+2021,Jawa Barat,Konstruksi,62,Kecil
+2021,Jawa Barat,Pariwisata,370,Sedang
+2021,Jawa Barat,Tambang,378,Sedang
+2021,Jawa Barat,Transportasi,834,Besar
+2021,Jawa Tengah,Tekstil,826,Besar
+2021,Jawa Tengah,Industri Pengolahan,960,Besar
+2021,Jawa Tengah,Makanan & Minuman,1168,Besar
+2021,Jawa Tengah,Otomotif,367,Sedang
+2021,Jawa Tengah,Elektronik,285,Sedang
+2021,Jawa Tengah,Jasa,383,Sedang
+2021,Jawa Tengah,Konstruksi,425,Sedang
+2021,Jawa Tengah,Pariwisata,637,Besar
+2021,Jawa Tengah,Tambang,562,Sedang
+2021,Jawa Tengah,Transportasi,967,Besar
+2021,DI Yogyakarta,Tekstil,922,Besar
+2021,DI Yogyakarta,Industri Pengolahan,319,Sedang
+2021,DI Yogyakarta,Makanan & Minuman,847,Besar
+2021,DI Yogyakarta,Otomotif,774,Besar
+2021,DI Yogyakarta,Elektronik,54,Kecil
+2021,DI Yogyakarta,Jasa,900,Besar
+2021,DI Yogyakarta,Konstruksi,127,Kecil
+2021,DI Yogyakarta,Pariwisata,623,Besar
+2021,DI Yogyakarta,Tambang,181,Kecil
+2021,DI Yogyakarta,Transportasi,650,Besar
+2021,Jawa Timur,Tekstil,1115,Besar
+2021,Jawa Timur,Industri Pengolahan,138,Kecil
+2021,Jawa Timur,Makanan & Minuman,451,Sedang
+2021,Jawa Timur,Otomotif,345,Sedang
+2021,Jawa Timur,Elektronik,665,Besar
+2021,Jawa Timur,Jasa,849,Besar
+2021,Jawa Timur,Konstruksi,471,Sedang
+2021,Jawa Timur,Pariwisata,1096,Besar
+2021,Jawa Timur,Tambang,624,Besar
+2021,Jawa Timur,Transportasi,192,Kecil
+2021,Banten,Tekstil,1042,Besar
+2021,Banten,Industri Pengolahan,714,Besar
+2021,Banten,Makanan & Minuman,194,Kecil
+2021,Banten,Otomotif,1056,Besar
+2021,Banten,Elektronik,552,Sedang
+2021,Banten,Jasa,870,Besar
+2021,Banten,Konstruksi,153,Kecil
+2021,Banten,Pariwisata,1112,Besar
+2021,Banten,Tambang,247,Sedang
+2021,Banten,Transportasi,628,Besar
+2021,Bali,Tekstil,440,Sedang
+2021,Bali,Industri Pengolahan,603,Besar
+2021,Bali,Makanan & Minuman,1088,Besar
+2021,Bali,Otomotif,527,Sedang
+2021,Bali,Elektronik,972,Besar
+2021,Bali,Jasa,469,Sedang
+2021,Bali,Konstruksi,206,Sedang
+2021,Bali,Pariwisata,599,Sedang
+2021,Bali,Tambang,1170,Besar
+2021,Bali,Transportasi,1070,Besar
+2021,Nusa Tenggara Barat,Tekstil,1046,Besar
+2021,Nusa Tenggara Barat,Industri Pengolahan,1000,Besar
+2021,Nusa Tenggara Barat,Makanan & Minuman,338,Sedang
+2021,Nusa Tenggara Barat,Otomotif,245,Sedang
+2021,Nusa Tenggara Barat,Elektronik,647,Besar
+2021,Nusa Tenggara Barat,Jasa,566,Sedang
+2021,Nusa Tenggara Barat,Konstruksi,914,Besar
+2021,Nusa Tenggara Barat,Pariwisata,1191,Besar
+2021,Nusa Tenggara Barat,Tambang,855,Besar
+2021,Nusa Tenggara Barat,Transportasi,864,Besar
+2021,Nusa Tenggara Timur,Tekstil,277,Sedang
+2021,Nusa Tenggara Timur,Industri Pengolahan,265,Sedang
+2021,Nusa Tenggara Timur,Makanan & Minuman,997,Besar
+2021,Nusa Tenggara Timur,Otomotif,64,Kecil
+2021,Nusa Tenggara Timur,Elektronik,96,Kecil
+2021,Nusa Tenggara Timur,Jasa,373,Sedang
+2021,Nusa Tenggara Timur,Konstruksi,893,Besar
+2021,Nusa Tenggara Timur,Pariwisata,179,Kecil
+2021,Nusa Tenggara Timur,Tambang,144,Kecil
+2021,Nusa Tenggara Timur,Transportasi,676,Besar
+2021,Kalimantan Barat,Tekstil,804,Besar
+2021,Kalimantan Barat,Industri Pengolahan,843,Besar
+2021,Kalimantan Barat,Makanan & Minuman,118,Kecil
+2021,Kalimantan Barat,Otomotif,60,Kecil
+2021,Kalimantan Barat,Elektronik,921,Besar
+2021,Kalimantan Barat,Jasa,599,Sedang
+2021,Kalimantan Barat,Konstruksi,761,Besar
+2021,Kalimantan Barat,Pariwisata,72,Kecil
+2021,Kalimantan Barat,Tambang,864,Besar
+2021,Kalimantan Barat,Transportasi,395,Sedang
+2021,Kalimantan Tengah,Tekstil,351,Sedang
+2021,Kalimantan Tengah,Industri Pengolahan,412,Sedang
+2021,Kalimantan Tengah,Makanan & Minuman,445,Sedang
+2021,Kalimantan Tengah,Otomotif,267,Sedang
+2021,Kalimantan Tengah,Elektronik,190,Kecil
+2021,Kalimantan Tengah,Jasa,1007,Besar
+2021,Kalimantan Tengah,Konstruksi,1034,Besar
+2021,Kalimantan Tengah,Pariwisata,1042,Besar
+2021,Kalimantan Tengah,Tambang,877,Besar
+2021,Kalimantan Tengah,Transportasi,732,Besar
+2021,Kalimantan Selatan,Tekstil,1053,Besar
+2021,Kalimantan Selatan,Industri Pengolahan,405,Sedang
+2021,Kalimantan Selatan,Makanan & Minuman,1057,Besar
+2021,Kalimantan Selatan,Otomotif,937,Besar
+2021,Kalimantan Selatan,Elektronik,176,Kecil
+2021,Kalimantan Selatan,Jasa,1179,Besar
+2021,Kalimantan Selatan,Konstruksi,1058,Besar
+2021,Kalimantan Selatan,Pariwisata,653,Besar
+2021,Kalimantan Selatan,Tambang,1063,Besar
+2021,Kalimantan Selatan,Transportasi,100,Kecil
+2021,Kalimantan Timur,Tekstil,1102,Besar
+2021,Kalimantan Timur,Industri Pengolahan,828,Besar
+2021,Kalimantan Timur,Makanan & Minuman,863,Besar
+2021,Kalimantan Timur,Otomotif,469,Sedang
+2021,Kalimantan Timur,Elektronik,1032,Besar
+2021,Kalimantan Timur,Jasa,874,Besar
+2021,Kalimantan Timur,Konstruksi,1074,Besar
+2021,Kalimantan Timur,Pariwisata,616,Besar
+2021,Kalimantan Timur,Tambang,420,Sedang
+2021,Kalimantan Timur,Transportasi,985,Besar
+2021,Kalimantan Utara,Tekstil,710,Besar
+2021,Kalimantan Utara,Industri Pengolahan,1018,Besar
+2021,Kalimantan Utara,Makanan & Minuman,251,Sedang
+2021,Kalimantan Utara,Otomotif,362,Sedang
+2021,Kalimantan Utara,Elektronik,166,Kecil
+2021,Kalimantan Utara,Jasa,986,Besar
+2021,Kalimantan Utara,Konstruksi,624,Besar
+2021,Kalimantan Utara,Pariwisata,293,Sedang
+2021,Kalimantan Utara,Tambang,586,Sedang
+2021,Kalimantan Utara,Transportasi,124,Kecil
+2021,Sulawesi Utara,Tekstil,435,Sedang
+2021,Sulawesi Utara,Industri Pengolahan,524,Sedang
+2021,Sulawesi Utara,Makanan & Minuman,467,Sedang
+2021,Sulawesi Utara,Otomotif,396,Sedang
+2021,Sulawesi Utara,Elektronik,689,Besar
+2021,Sulawesi Utara,Jasa,988,Besar
+2021,Sulawesi Utara,Konstruksi,1004,Besar
+2021,Sulawesi Utara,Pariwisata,925,Besar
+2021,Sulawesi Utara,Tambang,812,Besar
+2021,Sulawesi Utara,Transportasi,713,Besar
+2021,Sulawesi Tengah,Tekstil,74,Kecil
+2021,Sulawesi Tengah,Industri Pengolahan,759,Besar
+2021,Sulawesi Tengah,Makanan & Minuman,226,Sedang
+2021,Sulawesi Tengah,Otomotif,334,Sedang
+2021,Sulawesi Tengah,Elektronik,112,Kecil
+2021,Sulawesi Tengah,Jasa,1052,Besar
+2021,Sulawesi Tengah,Konstruksi,711,Besar
+2021,Sulawesi Tengah,Pariwisata,715,Besar
+2021,Sulawesi Tengah,Tambang,205,Sedang
+2021,Sulawesi Tengah,Transportasi,1122,Besar
+2021,Sulawesi Selatan,Tekstil,1016,Besar
+2021,Sulawesi Selatan,Industri Pengolahan,898,Besar
+2021,Sulawesi Selatan,Makanan & Minuman,1157,Besar
+2021,Sulawesi Selatan,Otomotif,738,Besar
+2021,Sulawesi Selatan,Elektronik,197,Kecil
+2021,Sulawesi Selatan,Jasa,391,Sedang
+2021,Sulawesi Selatan,Konstruksi,525,Sedang
+2021,Sulawesi Selatan,Pariwisata,1136,Besar
+2021,Sulawesi Selatan,Tambang,610,Besar
+2021,Sulawesi Selatan,Transportasi,376,Sedang
+2021,Sulawesi Tenggara,Tekstil,1039,Besar
+2021,Sulawesi Tenggara,Industri Pengolahan,264,Sedang
+2021,Sulawesi Tenggara,Makanan & Minuman,484,Sedang
+2021,Sulawesi Tenggara,Otomotif,1001,Besar
+2021,Sulawesi Tenggara,Elektronik,772,Besar
+2021,Sulawesi Tenggara,Jasa,81,Kecil
+2021,Sulawesi Tenggara,Konstruksi,719,Besar
+2021,Sulawesi Tenggara,Pariwisata,334,Sedang
+2021,Sulawesi Tenggara,Tambang,478,Sedang
+2021,Sulawesi Tenggara,Transportasi,335,Sedang
+2021,Gorontalo,Tekstil,1092,Besar
+2021,Gorontalo,Industri Pengolahan,67,Kecil
+2021,Gorontalo,Makanan & Minuman,818,Besar
+2021,Gorontalo,Otomotif,639,Besar
+2021,Gorontalo,Elektronik,1059,Besar
+2021,Gorontalo,Jasa,243,Sedang
+2021,Gorontalo,Konstruksi,551,Sedang
+2021,Gorontalo,Pariwisata,1037,Besar
+2021,Gorontalo,Tambang,1186,Besar
+2021,Gorontalo,Transportasi,163,Kecil
+2021,Sulawesi Barat,Tekstil,996,Besar
+2021,Sulawesi Barat,Industri Pengolahan,880,Besar
+2021,Sulawesi Barat,Makanan & Minuman,974,Besar
+2021,Sulawesi Barat,Otomotif,104,Kecil
+2021,Sulawesi Barat,Elektronik,849,Besar
+2021,Sulawesi Barat,Jasa,827,Besar
+2021,Sulawesi Barat,Konstruksi,211,Sedang
+2021,Sulawesi Barat,Pariwisata,136,Kecil
+2021,Sulawesi Barat,Tambang,104,Kecil
+2021,Sulawesi Barat,Transportasi,1081,Besar
+2021,Maluku,Tekstil,882,Besar
+2021,Maluku,Industri Pengolahan,362,Sedang
+2021,Maluku,Makanan & Minuman,808,Besar
+2021,Maluku,Otomotif,492,Sedang
+2021,Maluku,Elektronik,377,Sedang
+2021,Maluku,Jasa,1127,Besar
+2021,Maluku,Konstruksi,810,Besar
+2021,Maluku,Pariwisata,628,Besar
+2021,Maluku,Tambang,1124,Besar
+2021,Maluku,Transportasi,1056,Besar
+2021,Maluku Utara,Tekstil,145,Kecil
+2021,Maluku Utara,Industri Pengolahan,1161,Besar
+2021,Maluku Utara,Makanan & Minuman,1151,Besar
+2021,Maluku Utara,Otomotif,1193,Besar
+2021,Maluku Utara,Elektronik,863,Besar
+2021,Maluku Utara,Jasa,540,Sedang
+2021,Maluku Utara,Konstruksi,501,Sedang
+2021,Maluku Utara,Pariwisata,214,Sedang
+2021,Maluku Utara,Tambang,231,Sedang
+2021,Maluku Utara,Transportasi,518,Sedang
+2021,Papua,Tekstil,959,Besar
+2021,Papua,Industri Pengolahan,784,Besar
+2021,Papua,Makanan & Minuman,872,Besar
+2021,Papua,Otomotif,993,Besar
+2021,Papua,Elektronik,56,Kecil
+2021,Papua,Jasa,379,Sedang
+2021,Papua,Konstruksi,824,Besar
+2021,Papua,Pariwisata,200,Sedang
+2021,Papua,Tambang,1158,Besar
+2021,Papua,Transportasi,196,Kecil
+2021,Papua Barat,Tekstil,964,Besar
+2021,Papua Barat,Industri Pengolahan,749,Besar
+2021,Papua Barat,Makanan & Minuman,131,Kecil
+2021,Papua Barat,Otomotif,563,Sedang
+2021,Papua Barat,Elektronik,864,Besar
+2021,Papua Barat,Jasa,758,Besar
+2021,Papua Barat,Konstruksi,795,Besar
+2021,Papua Barat,Pariwisata,1072,Besar
+2021,Papua Barat,Tambang,756,Besar
+2021,Papua Barat,Transportasi,520,Sedang
+2022,Aceh,Tekstil,1192,Besar
+2022,Aceh,Industri Pengolahan,445,Sedang
+2022,Aceh,Makanan & Minuman,310,Sedang
+2022,Aceh,Otomotif,854,Besar
+2022,Aceh,Elektronik,983,Besar
+2022,Aceh,Jasa,954,Besar
+2022,Aceh,Konstruksi,1126,Besar
+2022,Aceh,Pariwisata,989,Besar
+2022,Aceh,Tambang,903,Besar
+2022,Aceh,Transportasi,642,Besar
+2022,Sumatera Utara,Tekstil,763,Besar
+2022,Sumatera Utara,Industri Pengolahan,681,Besar
+2022,Sumatera Utara,Makanan & Minuman,108,Kecil
+2022,Sumatera Utara,Otomotif,177,Kecil
+2022,Sumatera Utara,Elektronik,785,Besar
+2022,Sumatera Utara,Jasa,770,Besar
+2022,Sumatera Utara,Konstruksi,1188,Besar
+2022,Sumatera Utara,Pariwisata,575,Sedang
+2022,Sumatera Utara,Tambang,570,Sedang
+2022,Sumatera Utara,Transportasi,601,Besar
+2022,Sumatera Barat,Tekstil,286,Sedang
+2022,Sumatera Barat,Industri Pengolahan,543,Sedang
+2022,Sumatera Barat,Makanan & Minuman,53,Kecil
+2022,Sumatera Barat,Otomotif,715,Besar
+2022,Sumatera Barat,Elektronik,491,Sedang
+2022,Sumatera Barat,Jasa,78,Kecil
+2022,Sumatera Barat,Konstruksi,1182,Besar
+2022,Sumatera Barat,Pariwisata,659,Besar
+2022,Sumatera Barat,Tambang,854,Besar
+2022,Sumatera Barat,Transportasi,124,Kecil
+2022,Riau,Tekstil,887,Besar
+2022,Riau,Industri Pengolahan,177,Kecil
+2022,Riau,Makanan & Minuman,91,Kecil
+2022,Riau,Otomotif,90,Kecil
+2022,Riau,Elektronik,983,Besar
+2022,Riau,Jasa,83,Kecil
+2022,Riau,Konstruksi,1090,Besar
+2022,Riau,Pariwisata,1047,Besar
+2022,Riau,Tambang,637,Besar
+2022,Riau,Transportasi,391,Sedang
+2022,Jambi,Tekstil,76,Kecil
+2022,Jambi,Industri Pengolahan,695,Besar
+2022,Jambi,Makanan & Minuman,780,Besar
+2022,Jambi,Otomotif,217,Sedang
+2022,Jambi,Elektronik,659,Besar
+2022,Jambi,Jasa,317,Sedang
+2022,Jambi,Konstruksi,870,Besar
+2022,Jambi,Pariwisata,504,Sedang
+2022,Jambi,Tambang,955,Besar
+2022,Jambi,Transportasi,971,Besar
+2022,Sumatera Selatan,Tekstil,1030,Besar
+2022,Sumatera Selatan,Industri Pengolahan,751,Besar
+2022,Sumatera Selatan,Makanan & Minuman,683,Besar
+2022,Sumatera Selatan,Otomotif,179,Kecil
+2022,Sumatera Selatan,Elektronik,1069,Besar
+2022,Sumatera Selatan,Jasa,868,Besar
+2022,Sumatera Selatan,Konstruksi,742,Besar
+2022,Sumatera Selatan,Pariwisata,843,Besar
+2022,Sumatera Selatan,Tambang,78,Kecil
+2022,Sumatera Selatan,Transportasi,198,Kecil
+2022,Bengkulu,Tekstil,60,Kecil
+2022,Bengkulu,Industri Pengolahan,725,Besar
+2022,Bengkulu,Makanan & Minuman,1186,Besar
+2022,Bengkulu,Otomotif,236,Sedang
+2022,Bengkulu,Elektronik,856,Besar
+2022,Bengkulu,Jasa,793,Besar
+2022,Bengkulu,Konstruksi,147,Kecil
+2022,Bengkulu,Pariwisata,104,Kecil
+2022,Bengkulu,Tambang,672,Besar
+2022,Bengkulu,Transportasi,713,Besar
+2022,Lampung,Tekstil,807,Besar
+2022,Lampung,Industri Pengolahan,455,Sedang
+2022,Lampung,Makanan & Minuman,118,Kecil
+2022,Lampung,Otomotif,800,Besar
+2022,Lampung,Elektronik,1007,Besar
+2022,Lampung,Jasa,414,Sedang
+2022,Lampung,Konstruksi,531,Sedang
+2022,Lampung,Pariwisata,250,Sedang
+2022,Lampung,Tambang,203,Sedang
+2022,Lampung,Transportasi,122,Kecil
+2022,Kep. Bangka Belitung,Tekstil,762,Besar
+2022,Kep. Bangka Belitung,Industri Pengolahan,345,Sedang
+2022,Kep. Bangka Belitung,Makanan & Minuman,1090,Besar
+2022,Kep. Bangka Belitung,Otomotif,110,Kecil
+2022,Kep. Bangka Belitung,Elektronik,988,Besar
+2022,Kep. Bangka Belitung,Jasa,91,Kecil
+2022,Kep. Bangka Belitung,Konstruksi,74,Kecil
+2022,Kep. Bangka Belitung,Pariwisata,1112,Besar
+2022,Kep. Bangka Belitung,Tambang,180,Kecil
+2022,Kep. Bangka Belitung,Transportasi,157,Kecil
+2022,Kep. Riau,Tekstil,221,Sedang
+2022,Kep. Riau,Industri Pengolahan,151,Kecil
+2022,Kep. Riau,Makanan & Minuman,915,Besar
+2022,Kep. Riau,Otomotif,573,Sedang
+2022,Kep. Riau,Elektronik,324,Sedang
+2022,Kep. Riau,Jasa,1117,Besar
+2022,Kep. Riau,Konstruksi,866,Besar
+2022,Kep. Riau,Pariwisata,1006,Besar
+2022,Kep. Riau,Tambang,1090,Besar
+2022,Kep. Riau,Transportasi,379,Sedang
+2022,DKI Jakarta,Tekstil,61,Kecil
+2022,DKI Jakarta,Industri Pengolahan,265,Sedang
+2022,DKI Jakarta,Makanan & Minuman,388,Sedang
+2022,DKI Jakarta,Otomotif,710,Besar
+2022,DKI Jakarta,Elektronik,1154,Besar
+2022,DKI Jakarta,Jasa,423,Sedang
+2022,DKI Jakarta,Konstruksi,1025,Besar
+2022,DKI Jakarta,Pariwisata,759,Besar
+2022,DKI Jakarta,Tambang,515,Sedang
+2022,DKI Jakarta,Transportasi,1162,Besar
+2022,Jawa Barat,Tekstil,538,Sedang
+2022,Jawa Barat,Industri Pengolahan,96,Kecil
+2022,Jawa Barat,Makanan & Minuman,827,Besar
+2022,Jawa Barat,Otomotif,1089,Besar
+2022,Jawa Barat,Elektronik,760,Besar
+2022,Jawa Barat,Jasa,450,Sedang
+2022,Jawa Barat,Konstruksi,1030,Besar
+2022,Jawa Barat,Pariwisata,1159,Besar
+2022,Jawa Barat,Tambang,299,Sedang
+2022,Jawa Barat,Transportasi,440,Sedang
+2022,Jawa Tengah,Tekstil,384,Sedang
+2022,Jawa Tengah,Industri Pengolahan,678,Besar
+2022,Jawa Tengah,Makanan & Minuman,186,Kecil
+2022,Jawa Tengah,Otomotif,932,Besar
+2022,Jawa Tengah,Elektronik,737,Besar
+2022,Jawa Tengah,Jasa,876,Besar
+2022,Jawa Tengah,Konstruksi,776,Besar
+2022,Jawa Tengah,Pariwisata,643,Besar
+2022,Jawa Tengah,Tambang,1039,Besar
+2022,Jawa Tengah,Transportasi,421,Sedang
+2022,DI Yogyakarta,Tekstil,984,Besar
+2022,DI Yogyakarta,Industri Pengolahan,1044,Besar
+2022,DI Yogyakarta,Makanan & Minuman,451,Sedang
+2022,DI Yogyakarta,Otomotif,664,Besar
+2022,DI Yogyakarta,Elektronik,1044,Besar
+2022,DI Yogyakarta,Jasa,669,Besar
+2022,DI Yogyakarta,Konstruksi,237,Sedang
+2022,DI Yogyakarta,Pariwisata,1171,Besar
+2022,DI Yogyakarta,Tambang,180,Kecil
+2022,DI Yogyakarta,Transportasi,854,Besar
+2022,Jawa Timur,Tekstil,985,Besar
+2022,Jawa Timur,Industri Pengolahan,1035,Besar
+2022,Jawa Timur,Makanan & Minuman,232,Sedang
+2022,Jawa Timur,Otomotif,1032,Besar
+2022,Jawa Timur,Elektronik,413,Sedang
+2022,Jawa Timur,Jasa,88,Kecil
+2022,Jawa Timur,Konstruksi,546,Sedang
+2022,Jawa Timur,Pariwisata,1031,Besar
+2022,Jawa Timur,Tambang,970,Besar
+2022,Jawa Timur,Transportasi,771,Besar
+2022,Banten,Tekstil,65,Kecil
+2022,Banten,Industri Pengolahan,542,Sedang
+2022,Banten,Makanan & Minuman,1181,Besar
+2022,Banten,Otomotif,943,Besar
+2022,Banten,Elektronik,360,Sedang
+2022,Banten,Jasa,788,Besar
+2022,Banten,Konstruksi,595,Sedang
+2022,Banten,Pariwisata,463,Sedang
+2022,Banten,Tambang,300,Sedang
+2022,Banten,Transportasi,808,Besar
+2022,Bali,Tekstil,1112,Besar
+2022,Bali,Industri Pengolahan,863,Besar
+2022,Bali,Makanan & Minuman,78,Kecil
+2022,Bali,Otomotif,1007,Besar
+2022,Bali,Elektronik,526,Sedang
+2022,Bali,Jasa,367,Sedang
+2022,Bali,Konstruksi,294,Sedang
+2022,Bali,Pariwisata,797,Besar
+2022,Bali,Tambang,746,Besar
+2022,Bali,Transportasi,321,Sedang
+2022,Nusa Tenggara Barat,Tekstil,426,Sedang
+2022,Nusa Tenggara Barat,Industri Pengolahan,315,Sedang
+2022,Nusa Tenggara Barat,Makanan & Minuman,975,Besar
+2022,Nusa Tenggara Barat,Otomotif,970,Besar
+2022,Nusa Tenggara Barat,Elektronik,389,Sedang
+2022,Nusa Tenggara Barat,Jasa,438,Sedang
+2022,Nusa Tenggara Barat,Konstruksi,626,Besar
+2022,Nusa Tenggara Barat,Pariwisata,52,Kecil
+2022,Nusa Tenggara Barat,Tambang,425,Sedang
+2022,Nusa Tenggara Barat,Transportasi,373,Sedang
+2022,Nusa Tenggara Timur,Tekstil,195,Kecil
+2022,Nusa Tenggara Timur,Industri Pengolahan,342,Sedang
+2022,Nusa Tenggara Timur,Makanan & Minuman,481,Sedang
+2022,Nusa Tenggara Timur,Otomotif,754,Besar
+2022,Nusa Tenggara Timur,Elektronik,998,Besar
+2022,Nusa Tenggara Timur,Jasa,634,Besar
+2022,Nusa Tenggara Timur,Konstruksi,448,Sedang
+2022,Nusa Tenggara Timur,Pariwisata,866,Besar
+2022,Nusa Tenggara Timur,Tambang,1013,Besar
+2022,Nusa Tenggara Timur,Transportasi,236,Sedang
+2022,Kalimantan Barat,Tekstil,110,Kecil
+2022,Kalimantan Barat,Industri Pengolahan,988,Besar
+2022,Kalimantan Barat,Makanan & Minuman,759,Besar
+2022,Kalimantan Barat,Otomotif,856,Besar
+2022,Kalimantan Barat,Elektronik,60,Kecil
+2022,Kalimantan Barat,Jasa,1135,Besar
+2022,Kalimantan Barat,Konstruksi,275,Sedang
+2022,Kalimantan Barat,Pariwisata,613,Besar
+2022,Kalimantan Barat,Tambang,821,Besar
+2022,Kalimantan Barat,Transportasi,934,Besar
+2022,Kalimantan Tengah,Tekstil,1180,Besar
+2022,Kalimantan Tengah,Industri Pengolahan,275,Sedang
+2022,Kalimantan Tengah,Makanan & Minuman,874,Besar
+2022,Kalimantan Tengah,Otomotif,267,Sedang
+2022,Kalimantan Tengah,Elektronik,986,Besar
+2022,Kalimantan Tengah,Jasa,802,Besar
+2022,Kalimantan Tengah,Konstruksi,555,Sedang
+2022,Kalimantan Tengah,Pariwisata,308,Sedang
+2022,Kalimantan Tengah,Tambang,103,Kecil
+2022,Kalimantan Tengah,Transportasi,1120,Besar
+2022,Kalimantan Selatan,Tekstil,776,Besar
+2022,Kalimantan Selatan,Industri Pengolahan,738,Besar
+2022,Kalimantan Selatan,Makanan & Minuman,1172,Besar
+2022,Kalimantan Selatan,Otomotif,1093,Besar
+2022,Kalimantan Selatan,Elektronik,468,Sedang
+2022,Kalimantan Selatan,Jasa,739,Besar
+2022,Kalimantan Selatan,Konstruksi,899,Besar
+2022,Kalimantan Selatan,Pariwisata,111,Kecil
+2022,Kalimantan Selatan,Tambang,265,Sedang
+2022,Kalimantan Selatan,Transportasi,52,Kecil
+2022,Kalimantan Timur,Tekstil,209,Sedang
+2022,Kalimantan Timur,Industri Pengolahan,830,Besar
+2022,Kalimantan Timur,Makanan & Minuman,1193,Besar
+2022,Kalimantan Timur,Otomotif,942,Besar
+2022,Kalimantan Timur,Elektronik,1162,Besar
+2022,Kalimantan Timur,Jasa,378,Sedang
+2022,Kalimantan Timur,Konstruksi,629,Besar
+2022,Kalimantan Timur,Pariwisata,1001,Besar
+2022,Kalimantan Timur,Tambang,684,Besar
+2022,Kalimantan Timur,Transportasi,1037,Besar
+2022,Kalimantan Utara,Tekstil,970,Besar
+2022,Kalimantan Utara,Industri Pengolahan,787,Besar
+2022,Kalimantan Utara,Makanan & Minuman,219,Sedang
+2022,Kalimantan Utara,Otomotif,570,Sedang
+2022,Kalimantan Utara,Elektronik,89,Kecil
+2022,Kalimantan Utara,Jasa,1004,Besar
+2022,Kalimantan Utara,Konstruksi,1033,Besar
+2022,Kalimantan Utara,Pariwisata,1197,Besar
+2022,Kalimantan Utara,Tambang,1024,Besar
+2022,Kalimantan Utara,Transportasi,87,Kecil
+2022,Sulawesi Utara,Tekstil,377,Sedang
+2022,Sulawesi Utara,Industri Pengolahan,963,Besar
+2022,Sulawesi Utara,Makanan & Minuman,503,Sedang
+2022,Sulawesi Utara,Otomotif,86,Kecil
+2022,Sulawesi Utara,Elektronik,1022,Besar
+2022,Sulawesi Utara,Jasa,845,Besar
+2022,Sulawesi Utara,Konstruksi,1022,Besar
+2022,Sulawesi Utara,Pariwisata,642,Besar
+2022,Sulawesi Utara,Tambang,1187,Besar
+2022,Sulawesi Utara,Transportasi,1113,Besar
+2022,Sulawesi Tengah,Tekstil,273,Sedang
+2022,Sulawesi Tengah,Industri Pengolahan,367,Sedang
+2022,Sulawesi Tengah,Makanan & Minuman,398,Sedang
+2022,Sulawesi Tengah,Otomotif,164,Kecil
+2022,Sulawesi Tengah,Elektronik,747,Besar
+2022,Sulawesi Tengah,Jasa,1113,Besar
+2022,Sulawesi Tengah,Konstruksi,89,Kecil
+2022,Sulawesi Tengah,Pariwisata,265,Sedang
+2022,Sulawesi Tengah,Tambang,385,Sedang
+2022,Sulawesi Tengah,Transportasi,141,Kecil
+2022,Sulawesi Selatan,Tekstil,402,Sedang
+2022,Sulawesi Selatan,Industri Pengolahan,620,Besar
+2022,Sulawesi Selatan,Makanan & Minuman,865,Besar
+2022,Sulawesi Selatan,Otomotif,830,Besar
+2022,Sulawesi Selatan,Elektronik,412,Sedang
+2022,Sulawesi Selatan,Jasa,606,Besar
+2022,Sulawesi Selatan,Konstruksi,405,Sedang
+2022,Sulawesi Selatan,Pariwisata,240,Sedang
+2022,Sulawesi Selatan,Tambang,471,Sedang
+2022,Sulawesi Selatan,Transportasi,749,Besar
+2022,Sulawesi Tenggara,Tekstil,56,Kecil
+2022,Sulawesi Tenggara,Industri Pengolahan,182,Kecil
+2022,Sulawesi Tenggara,Makanan & Minuman,606,Besar
+2022,Sulawesi Tenggara,Otomotif,875,Besar
+2022,Sulawesi Tenggara,Elektronik,810,Besar
+2022,Sulawesi Tenggara,Jasa,1104,Besar
+2022,Sulawesi Tenggara,Konstruksi,584,Sedang
+2022,Sulawesi Tenggara,Pariwisata,475,Sedang
+2022,Sulawesi Tenggara,Tambang,721,Besar
+2022,Sulawesi Tenggara,Transportasi,412,Sedang
+2022,Gorontalo,Tekstil,131,Kecil
+2022,Gorontalo,Industri Pengolahan,405,Sedang
+2022,Gorontalo,Makanan & Minuman,638,Besar
+2022,Gorontalo,Otomotif,344,Sedang
+2022,Gorontalo,Elektronik,1119,Besar
+2022,Gorontalo,Jasa,1186,Besar
+2022,Gorontalo,Konstruksi,66,Kecil
+2022,Gorontalo,Pariwisata,409,Sedang
+2022,Gorontalo,Tambang,915,Besar
+2022,Gorontalo,Transportasi,749,Besar
+2022,Sulawesi Barat,Tekstil,497,Sedang
+2022,Sulawesi Barat,Industri Pengolahan,905,Besar
+2022,Sulawesi Barat,Makanan & Minuman,414,Sedang
+2022,Sulawesi Barat,Otomotif,724,Besar
+2022,Sulawesi Barat,Elektronik,1057,Besar
+2022,Sulawesi Barat,Jasa,516,Sedang
+2022,Sulawesi Barat,Konstruksi,463,Sedang
+2022,Sulawesi Barat,Pariwisata,635,Besar
+2022,Sulawesi Barat,Tambang,1043,Besar
+2022,Sulawesi Barat,Transportasi,621,Besar
+2022,Maluku,Tekstil,384,Sedang
+2022,Maluku,Industri Pengolahan,86,Kecil
+2022,Maluku,Makanan & Minuman,1038,Besar
+2022,Maluku,Otomotif,327,Sedang
+2022,Maluku,Elektronik,965,Besar
+2022,Maluku,Jasa,533,Sedang
+2022,Maluku,Konstruksi,780,Besar
+2022,Maluku,Pariwisata,241,Sedang
+2022,Maluku,Tambang,1090,Besar
+2022,Maluku,Transportasi,573,Sedang
+2022,Maluku Utara,Tekstil,967,Besar
+2022,Maluku Utara,Industri Pengolahan,450,Sedang
+2022,Maluku Utara,Makanan & Minuman,935,Besar
+2022,Maluku Utara,Otomotif,754,Besar
+2022,Maluku Utara,Elektronik,71,Kecil
+2022,Maluku Utara,Jasa,523,Sedang
+2022,Maluku Utara,Konstruksi,1193,Besar
+2022,Maluku Utara,Pariwisata,259,Sedang
+2022,Maluku Utara,Tambang,355,Sedang
+2022,Maluku Utara,Transportasi,753,Besar
+2022,Papua,Tekstil,736,Besar
+2022,Papua,Industri Pengolahan,334,Sedang
+2022,Papua,Makanan & Minuman,765,Besar
+2022,Papua,Otomotif,812,Besar
+2022,Papua,Elektronik,997,Besar
+2022,Papua,Jasa,430,Sedang
+2022,Papua,Konstruksi,509,Sedang
+2022,Papua,Pariwisata,1080,Besar
+2022,Papua,Tambang,78,Kecil
+2022,Papua,Transportasi,956,Besar
+2022,Papua Barat,Tekstil,1106,Besar
+2022,Papua Barat,Industri Pengolahan,928,Besar
+2022,Papua Barat,Makanan & Minuman,128,Kecil
+2022,Papua Barat,Otomotif,996,Besar
+2022,Papua Barat,Elektronik,508,Sedang
+2022,Papua Barat,Jasa,619,Besar
+2022,Papua Barat,Konstruksi,787,Besar
+2022,Papua Barat,Pariwisata,565,Sedang
+2022,Papua Barat,Tambang,1172,Besar
+2022,Papua Barat,Transportasi,446,Sedang
+2023,Aceh,Tekstil,88,Kecil
+2023,Aceh,Industri Pengolahan,936,Besar
+2023,Aceh,Makanan & Minuman,846,Besar
+2023,Aceh,Otomotif,206,Sedang
+2023,Aceh,Elektronik,1148,Besar
+2023,Aceh,Jasa,933,Besar
+2023,Aceh,Konstruksi,1023,Besar
+2023,Aceh,Pariwisata,1157,Besar
+2023,Aceh,Tambang,1095,Besar
+2023,Aceh,Transportasi,898,Besar
+2023,Sumatera Utara,Tekstil,797,Besar
+2023,Sumatera Utara,Industri Pengolahan,1038,Besar
+2023,Sumatera Utara,Makanan & Minuman,70,Kecil
+2023,Sumatera Utara,Otomotif,352,Sedang
+2023,Sumatera Utara,Elektronik,918,Besar
+2023,Sumatera Utara,Jasa,133,Kecil
+2023,Sumatera Utara,Konstruksi,619,Besar
+2023,Sumatera Utara,Pariwisata,983,Besar
+2023,Sumatera Utara,Tambang,1058,Besar
+2023,Sumatera Utara,Transportasi,842,Besar
+2023,Sumatera Barat,Tekstil,841,Besar
+2023,Sumatera Barat,Industri Pengolahan,541,Sedang
+2023,Sumatera Barat,Makanan & Minuman,257,Sedang
+2023,Sumatera Barat,Otomotif,1133,Besar
+2023,Sumatera Barat,Elektronik,479,Sedang
+2023,Sumatera Barat,Jasa,1034,Besar
+2023,Sumatera Barat,Konstruksi,569,Sedang
+2023,Sumatera Barat,Pariwisata,640,Besar
+2023,Sumatera Barat,Tambang,1100,Besar
+2023,Sumatera Barat,Transportasi,248,Sedang
+2023,Riau,Tekstil,436,Sedang
+2023,Riau,Industri Pengolahan,398,Sedang
+2023,Riau,Makanan & Minuman,1009,Besar
+2023,Riau,Otomotif,742,Besar
+2023,Riau,Elektronik,427,Sedang
+2023,Riau,Jasa,948,Besar
+2023,Riau,Konstruksi,965,Besar
+2023,Riau,Pariwisata,576,Sedang
+2023,Riau,Tambang,783,Besar
+2023,Riau,Transportasi,255,Sedang
+2023,Jambi,Tekstil,504,Sedang
+2023,Jambi,Industri Pengolahan,570,Sedang
+2023,Jambi,Makanan & Minuman,1066,Besar
+2023,Jambi,Otomotif,1005,Besar
+2023,Jambi,Elektronik,775,Besar
+2023,Jambi,Jasa,1063,Besar
+2023,Jambi,Konstruksi,550,Sedang
+2023,Jambi,Pariwisata,166,Kecil
+2023,Jambi,Tambang,435,Sedang
+2023,Jambi,Transportasi,633,Besar
+2023,Sumatera Selatan,Tekstil,444,Sedang
+2023,Sumatera Selatan,Industri Pengolahan,1137,Besar
+2023,Sumatera Selatan,Makanan & Minuman,770,Besar
+2023,Sumatera Selatan,Otomotif,121,Kecil
+2023,Sumatera Selatan,Elektronik,323,Sedang
+2023,Sumatera Selatan,Jasa,387,Sedang
+2023,Sumatera Selatan,Konstruksi,656,Besar
+2023,Sumatera Selatan,Pariwisata,215,Sedang
+2023,Sumatera Selatan,Tambang,60,Kecil
+2023,Sumatera Selatan,Transportasi,778,Besar
+2023,Bengkulu,Tekstil,850,Besar
+2023,Bengkulu,Industri Pengolahan,151,Kecil
+2023,Bengkulu,Makanan & Minuman,828,Besar
+2023,Bengkulu,Otomotif,263,Sedang
+2023,Bengkulu,Elektronik,1161,Besar
+2023,Bengkulu,Jasa,450,Sedang
+2023,Bengkulu,Konstruksi,637,Besar
+2023,Bengkulu,Pariwisata,938,Besar
+2023,Bengkulu,Tambang,1119,Besar
+2023,Bengkulu,Transportasi,641,Besar
+2023,Lampung,Tekstil,1159,Besar
+2023,Lampung,Industri Pengolahan,141,Kecil
+2023,Lampung,Makanan & Minuman,722,Besar
+2023,Lampung,Otomotif,763,Besar
+2023,Lampung,Elektronik,985,Besar
+2023,Lampung,Jasa,291,Sedang
+2023,Lampung,Konstruksi,51,Kecil
+2023,Lampung,Pariwisata,274,Sedang
+2023,Lampung,Tambang,850,Besar
+2023,Lampung,Transportasi,638,Besar
+2023,Kep. Bangka Belitung,Tekstil,165,Kecil
+2023,Kep. Bangka Belitung,Industri Pengolahan,967,Besar
+2023,Kep. Bangka Belitung,Makanan & Minuman,1176,Besar
+2023,Kep. Bangka Belitung,Otomotif,243,Sedang
+2023,Kep. Bangka Belitung,Elektronik,920,Besar
+2023,Kep. Bangka Belitung,Jasa,139,Kecil
+2023,Kep. Bangka Belitung,Konstruksi,171,Kecil
+2023,Kep. Bangka Belitung,Pariwisata,192,Kecil
+2023,Kep. Bangka Belitung,Tambang,1043,Besar
+2023,Kep. Bangka Belitung,Transportasi,155,Kecil
+2023,Kep. Riau,Tekstil,936,Besar
+2023,Kep. Riau,Industri Pengolahan,477,Sedang
+2023,Kep. Riau,Makanan & Minuman,366,Sedang
+2023,Kep. Riau,Otomotif,684,Besar
+2023,Kep. Riau,Elektronik,58,Kecil
+2023,Kep. Riau,Jasa,823,Besar
+2023,Kep. Riau,Konstruksi,1146,Besar
+2023,Kep. Riau,Pariwisata,272,Sedang
+2023,Kep. Riau,Tambang,602,Besar
+2023,Kep. Riau,Transportasi,765,Besar
+2023,DKI Jakarta,Tekstil,1157,Besar
+2023,DKI Jakarta,Industri Pengolahan,160,Kecil
+2023,DKI Jakarta,Makanan & Minuman,300,Sedang
+2023,DKI Jakarta,Otomotif,432,Sedang
+2023,DKI Jakarta,Elektronik,56,Kecil
+2023,DKI Jakarta,Jasa,508,Sedang
+2023,DKI Jakarta,Konstruksi,1157,Besar
+2023,DKI Jakarta,Pariwisata,257,Sedang
+2023,DKI Jakarta,Tambang,949,Besar
+2023,DKI Jakarta,Transportasi,71,Kecil
+2023,Jawa Barat,Tekstil,459,Sedang
+2023,Jawa Barat,Industri Pengolahan,944,Besar
+2023,Jawa Barat,Makanan & Minuman,564,Sedang
+2023,Jawa Barat,Otomotif,858,Besar
+2023,Jawa Barat,Elektronik,923,Besar
+2023,Jawa Barat,Jasa,63,Kecil
+2023,Jawa Barat,Konstruksi,1020,Besar
+2023,Jawa Barat,Pariwisata,1027,Besar
+2023,Jawa Barat,Tambang,1063,Besar
+2023,Jawa Barat,Transportasi,1085,Besar
+2023,Jawa Tengah,Tekstil,136,Kecil
+2023,Jawa Tengah,Industri Pengolahan,958,Besar
+2023,Jawa Tengah,Makanan & Minuman,171,Kecil
+2023,Jawa Tengah,Otomotif,799,Besar
+2023,Jawa Tengah,Elektronik,734,Besar
+2023,Jawa Tengah,Jasa,358,Sedang
+2023,Jawa Tengah,Konstruksi,744,Besar
+2023,Jawa Tengah,Pariwisata,337,Sedang
+2023,Jawa Tengah,Tambang,356,Sedang
+2023,Jawa Tengah,Transportasi,963,Besar
+2023,DI Yogyakarta,Tekstil,711,Besar
+2023,DI Yogyakarta,Industri Pengolahan,598,Sedang
+2023,DI Yogyakarta,Makanan & Minuman,361,Sedang
+2023,DI Yogyakarta,Otomotif,922,Besar
+2023,DI Yogyakarta,Elektronik,1132,Besar
+2023,DI Yogyakarta,Jasa,973,Besar
+2023,DI Yogyakarta,Konstruksi,804,Besar
+2023,DI Yogyakarta,Pariwisata,84,Kecil
+2023,DI Yogyakarta,Tambang,494,Sedang
+2023,DI Yogyakarta,Transportasi,142,Kecil
+2023,Jawa Timur,Tekstil,402,Sedang
+2023,Jawa Timur,Industri Pengolahan,952,Besar
+2023,Jawa Timur,Makanan & Minuman,911,Besar
+2023,Jawa Timur,Otomotif,208,Sedang
+2023,Jawa Timur,Elektronik,1006,Besar
+2023,Jawa Timur,Jasa,73,Kecil
+2023,Jawa Timur,Konstruksi,453,Sedang
+2023,Jawa Timur,Pariwisata,854,Besar
+2023,Jawa Timur,Tambang,565,Sedang
+2023,Jawa Timur,Transportasi,781,Besar
+2023,Banten,Tekstil,581,Sedang
+2023,Banten,Industri Pengolahan,1005,Besar
+2023,Banten,Makanan & Minuman,201,Sedang
+2023,Banten,Otomotif,996,Besar
+2023,Banten,Elektronik,657,Besar
+2023,Banten,Jasa,469,Sedang
+2023,Banten,Konstruksi,1190,Besar
+2023,Banten,Pariwisata,915,Besar
+2023,Banten,Tambang,627,Besar
+2023,Banten,Transportasi,384,Sedang
+2023,Bali,Tekstil,981,Besar
+2023,Bali,Industri Pengolahan,344,Sedang
+2023,Bali,Makanan & Minuman,804,Besar
+2023,Bali,Otomotif,235,Sedang
+2023,Bali,Elektronik,686,Besar
+2023,Bali,Jasa,579,Sedang
+2023,Bali,Konstruksi,70,Kecil
+2023,Bali,Pariwisata,960,Besar
+2023,Bali,Tambang,916,Besar
+2023,Bali,Transportasi,843,Besar
+2023,Nusa Tenggara Barat,Tekstil,149,Kecil
+2023,Nusa Tenggara Barat,Industri Pengolahan,801,Besar
+2023,Nusa Tenggara Barat,Makanan & Minuman,527,Sedang
+2023,Nusa Tenggara Barat,Otomotif,989,Besar
+2023,Nusa Tenggara Barat,Elektronik,575,Sedang
+2023,Nusa Tenggara Barat,Jasa,383,Sedang
+2023,Nusa Tenggara Barat,Konstruksi,51,Kecil
+2023,Nusa Tenggara Barat,Pariwisata,424,Sedang
+2023,Nusa Tenggara Barat,Tambang,342,Sedang
+2023,Nusa Tenggara Barat,Transportasi,886,Besar
+2023,Nusa Tenggara Timur,Tekstil,1054,Besar
+2023,Nusa Tenggara Timur,Industri Pengolahan,602,Besar
+2023,Nusa Tenggara Timur,Makanan & Minuman,367,Sedang
+2023,Nusa Tenggara Timur,Otomotif,430,Sedang
+2023,Nusa Tenggara Timur,Elektronik,63,Kecil
+2023,Nusa Tenggara Timur,Jasa,553,Sedang
+2023,Nusa Tenggara Timur,Konstruksi,280,Sedang
+2023,Nusa Tenggara Timur,Pariwisata,1157,Besar
+2023,Nusa Tenggara Timur,Tambang,179,Kecil
+2023,Nusa Tenggara Timur,Transportasi,887,Besar
+2023,Kalimantan Barat,Tekstil,940,Besar
+2023,Kalimantan Barat,Industri Pengolahan,77,Kecil
+2023,Kalimantan Barat,Makanan & Minuman,115,Kecil
+2023,Kalimantan Barat,Otomotif,310,Sedang
+2023,Kalimantan Barat,Elektronik,509,Sedang
+2023,Kalimantan Barat,Jasa,350,Sedang
+2023,Kalimantan Barat,Konstruksi,968,Besar
+2023,Kalimantan Barat,Pariwisata,336,Sedang
+2023,Kalimantan Barat,Tambang,1083,Besar
+2023,Kalimantan Barat,Transportasi,679,Besar
+2023,Kalimantan Tengah,Tekstil,319,Sedang
+2023,Kalimantan Tengah,Industri Pengolahan,641,Besar
+2023,Kalimantan Tengah,Makanan & Minuman,893,Besar
+2023,Kalimantan Tengah,Otomotif,911,Besar
+2023,Kalimantan Tengah,Elektronik,182,Kecil
+2023,Kalimantan Tengah,Jasa,1021,Besar
+2023,Kalimantan Tengah,Konstruksi,562,Sedang
+2023,Kalimantan Tengah,Pariwisata,362,Sedang
+2023,Kalimantan Tengah,Tambang,625,Besar
+2023,Kalimantan Tengah,Transportasi,935,Besar
+2023,Kalimantan Selatan,Tekstil,1194,Besar
+2023,Kalimantan Selatan,Industri Pengolahan,1180,Besar
+2023,Kalimantan Selatan,Makanan & Minuman,736,Besar
+2023,Kalimantan Selatan,Otomotif,214,Sedang
+2023,Kalimantan Selatan,Elektronik,354,Sedang
+2023,Kalimantan Selatan,Jasa,205,Sedang
+2023,Kalimantan Selatan,Konstruksi,669,Besar
+2023,Kalimantan Selatan,Pariwisata,1006,Besar
+2023,Kalimantan Selatan,Tambang,383,Sedang
+2023,Kalimantan Selatan,Transportasi,1018,Besar
+2023,Kalimantan Timur,Tekstil,560,Sedang
+2023,Kalimantan Timur,Industri Pengolahan,1093,Besar
+2023,Kalimantan Timur,Makanan & Minuman,331,Sedang
+2023,Kalimantan Timur,Otomotif,846,Besar
+2023,Kalimantan Timur,Elektronik,1074,Besar
+2023,Kalimantan Timur,Jasa,168,Kecil
+2023,Kalimantan Timur,Konstruksi,1108,Besar
+2023,Kalimantan Timur,Pariwisata,247,Sedang
+2023,Kalimantan Timur,Tambang,534,Sedang
+2023,Kalimantan Timur,Transportasi,1132,Besar
+2023,Kalimantan Utara,Tekstil,886,Besar
+2023,Kalimantan Utara,Industri Pengolahan,1058,Besar
+2023,Kalimantan Utara,Makanan & Minuman,740,Besar
+2023,Kalimantan Utara,Otomotif,1085,Besar
+2023,Kalimantan Utara,Elektronik,539,Sedang
+2023,Kalimantan Utara,Jasa,325,Sedang
+2023,Kalimantan Utara,Konstruksi,742,Besar
+2023,Kalimantan Utara,Pariwisata,291,Sedang
+2023,Kalimantan Utara,Tambang,175,Kecil
+2023,Kalimantan Utara,Transportasi,266,Sedang
+2023,Sulawesi Utara,Tekstil,1112,Besar
+2023,Sulawesi Utara,Industri Pengolahan,544,Sedang
+2023,Sulawesi Utara,Makanan & Minuman,476,Sedang
+2023,Sulawesi Utara,Otomotif,968,Besar
+2023,Sulawesi Utara,Elektronik,200,Sedang
+2023,Sulawesi Utara,Jasa,433,Sedang
+2023,Sulawesi Utara,Konstruksi,357,Sedang
+2023,Sulawesi Utara,Pariwisata,795,Besar
+2023,Sulawesi Utara,Tambang,941,Besar
+2023,Sulawesi Utara,Transportasi,424,Sedang
+2023,Sulawesi Tengah,Tekstil,1081,Besar
+2023,Sulawesi Tengah,Industri Pengolahan,178,Kecil
+2023,Sulawesi Tengah,Makanan & Minuman,1064,Besar
+2023,Sulawesi Tengah,Otomotif,718,Besar
+2023,Sulawesi Tengah,Elektronik,566,Sedang
+2023,Sulawesi Tengah,Jasa,135,Kecil
+2023,Sulawesi Tengah,Konstruksi,360,Sedang
+2023,Sulawesi Tengah,Pariwisata,1192,Besar
+2023,Sulawesi Tengah,Tambang,476,Sedang
+2023,Sulawesi Tengah,Transportasi,163,Kecil
+2023,Sulawesi Selatan,Tekstil,352,Sedang
+2023,Sulawesi Selatan,Industri Pengolahan,793,Besar
+2023,Sulawesi Selatan,Makanan & Minuman,637,Besar
+2023,Sulawesi Selatan,Otomotif,1036,Besar
+2023,Sulawesi Selatan,Elektronik,394,Sedang
+2023,Sulawesi Selatan,Jasa,863,Besar
+2023,Sulawesi Selatan,Konstruksi,850,Besar
+2023,Sulawesi Selatan,Pariwisata,1074,Besar
+2023,Sulawesi Selatan,Tambang,1126,Besar
+2023,Sulawesi Selatan,Transportasi,1142,Besar
+2023,Sulawesi Tenggara,Tekstil,410,Sedang
+2023,Sulawesi Tenggara,Industri Pengolahan,1059,Besar
+2023,Sulawesi Tenggara,Makanan & Minuman,753,Besar
+2023,Sulawesi Tenggara,Otomotif,624,Besar
+2023,Sulawesi Tenggara,Elektronik,1162,Besar
+2023,Sulawesi Tenggara,Jasa,737,Besar
+2023,Sulawesi Tenggara,Konstruksi,830,Besar
+2023,Sulawesi Tenggara,Pariwisata,634,Besar
+2023,Sulawesi Tenggara,Tambang,638,Besar
+2023,Sulawesi Tenggara,Transportasi,538,Sedang
+2023,Gorontalo,Tekstil,1020,Besar
+2023,Gorontalo,Industri Pengolahan,1175,Besar
+2023,Gorontalo,Makanan & Minuman,543,Sedang
+2023,Gorontalo,Otomotif,68,Kecil
+2023,Gorontalo,Elektronik,446,Sedang
+2023,Gorontalo,Jasa,1050,Besar
+2023,Gorontalo,Konstruksi,900,Besar
+2023,Gorontalo,Pariwisata,871,Besar
+2023,Gorontalo,Tambang,504,Sedang
+2023,Gorontalo,Transportasi,774,Besar
+2023,Sulawesi Barat,Tekstil,1138,Besar
+2023,Sulawesi Barat,Industri Pengolahan,1149,Besar
+2023,Sulawesi Barat,Makanan & Minuman,760,Besar
+2023,Sulawesi Barat,Otomotif,192,Kecil
+2023,Sulawesi Barat,Elektronik,966,Besar
+2023,Sulawesi Barat,Jasa,877,Besar
+2023,Sulawesi Barat,Konstruksi,654,Besar
+2023,Sulawesi Barat,Pariwisata,354,Sedang
+2023,Sulawesi Barat,Tambang,785,Besar
+2023,Sulawesi Barat,Transportasi,340,Sedang
+2023,Maluku,Tekstil,151,Kecil
+2023,Maluku,Industri Pengolahan,916,Besar
+2023,Maluku,Makanan & Minuman,1017,Besar
+2023,Maluku,Otomotif,1023,Besar
+2023,Maluku,Elektronik,891,Besar
+2023,Maluku,Jasa,1011,Besar
+2023,Maluku,Konstruksi,991,Besar
+2023,Maluku,Pariwisata,1076,Besar
+2023,Maluku,Tambang,134,Kecil
+2023,Maluku,Transportasi,377,Sedang
+2023,Maluku Utara,Tekstil,865,Besar
+2023,Maluku Utara,Industri Pengolahan,503,Sedang
+2023,Maluku Utara,Makanan & Minuman,678,Besar
+2023,Maluku Utara,Otomotif,714,Besar
+2023,Maluku Utara,Elektronik,61,Kecil
+2023,Maluku Utara,Jasa,353,Sedang
+2023,Maluku Utara,Konstruksi,1024,Besar
+2023,Maluku Utara,Pariwisata,832,Besar
+2023,Maluku Utara,Tambang,92,Kecil
+2023,Maluku Utara,Transportasi,993,Besar
+2023,Papua,Tekstil,392,Sedang
+2023,Papua,Industri Pengolahan,547,Sedang
+2023,Papua,Makanan & Minuman,413,Sedang
+2023,Papua,Otomotif,940,Besar
+2023,Papua,Elektronik,476,Sedang
+2023,Papua,Jasa,1054,Besar
+2023,Papua,Konstruksi,70,Kecil
+2023,Papua,Pariwisata,456,Sedang
+2023,Papua,Tambang,668,Besar
+2023,Papua,Transportasi,1064,Besar
+2023,Papua Barat,Tekstil,385,Sedang
+2023,Papua Barat,Industri Pengolahan,1190,Besar
+2023,Papua Barat,Makanan & Minuman,1197,Besar
+2023,Papua Barat,Otomotif,448,Sedang
+2023,Papua Barat,Elektronik,842,Besar
+2023,Papua Barat,Jasa,764,Besar
+2023,Papua Barat,Konstruksi,100,Kecil
+2023,Papua Barat,Pariwisata,373,Sedang
+2023,Papua Barat,Tambang,838,Besar
+2023,Papua Barat,Transportasi,190,Kecil
+2024,Aceh,Tekstil,519,Sedang
+2024,Aceh,Industri Pengolahan,836,Besar
+2024,Aceh,Makanan & Minuman,1013,Besar
+2024,Aceh,Otomotif,1057,Besar
+2024,Aceh,Elektronik,422,Sedang
+2024,Aceh,Jasa,543,Sedang
+2024,Aceh,Konstruksi,800,Besar
+2024,Aceh,Pariwisata,340,Sedang
+2024,Aceh,Tambang,155,Kecil
+2024,Aceh,Transportasi,719,Besar
+2024,Sumatera Utara,Tekstil,51,Kecil
+2024,Sumatera Utara,Industri Pengolahan,638,Besar
+2024,Sumatera Utara,Makanan & Minuman,693,Besar
+2024,Sumatera Utara,Otomotif,139,Kecil
+2024,Sumatera Utara,Elektronik,399,Sedang
+2024,Sumatera Utara,Jasa,1181,Besar
+2024,Sumatera Utara,Konstruksi,1112,Besar
+2024,Sumatera Utara,Pariwisata,958,Besar
+2024,Sumatera Utara,Tambang,208,Sedang
+2024,Sumatera Utara,Transportasi,1008,Besar
+2024,Sumatera Barat,Tekstil,361,Sedang
+2024,Sumatera Barat,Industri Pengolahan,494,Sedang
+2024,Sumatera Barat,Makanan & Minuman,347,Sedang
+2024,Sumatera Barat,Otomotif,1001,Besar
+2024,Sumatera Barat,Elektronik,85,Kecil
+2024,Sumatera Barat,Jasa,1157,Besar
+2024,Sumatera Barat,Konstruksi,608,Besar
+2024,Sumatera Barat,Pariwisata,940,Besar
+2024,Sumatera Barat,Tambang,190,Kecil
+2024,Sumatera Barat,Transportasi,936,Besar
+2024,Riau,Tekstil,1191,Besar
+2024,Riau,Industri Pengolahan,775,Besar
+2024,Riau,Makanan & Minuman,1099,Besar
+2024,Riau,Otomotif,570,Sedang
+2024,Riau,Elektronik,59,Kecil
+2024,Riau,Jasa,1033,Besar
+2024,Riau,Konstruksi,427,Sedang
+2024,Riau,Pariwisata,731,Besar
+2024,Riau,Tambang,633,Besar
+2024,Riau,Transportasi,201,Sedang
+2024,Jambi,Tekstil,769,Besar
+2024,Jambi,Industri Pengolahan,1122,Besar
+2024,Jambi,Makanan & Minuman,908,Besar
+2024,Jambi,Otomotif,99,Kecil
+2024,Jambi,Elektronik,713,Besar
+2024,Jambi,Jasa,580,Sedang
+2024,Jambi,Konstruksi,1133,Besar
+2024,Jambi,Pariwisata,906,Besar
+2024,Jambi,Tambang,195,Kecil
+2024,Jambi,Transportasi,964,Besar
+2024,Sumatera Selatan,Tekstil,1042,Besar
+2024,Sumatera Selatan,Industri Pengolahan,291,Sedang
+2024,Sumatera Selatan,Makanan & Minuman,630,Besar
+2024,Sumatera Selatan,Otomotif,736,Besar
+2024,Sumatera Selatan,Elektronik,532,Sedang
+2024,Sumatera Selatan,Jasa,1181,Besar
+2024,Sumatera Selatan,Konstruksi,722,Besar
+2024,Sumatera Selatan,Pariwisata,680,Besar
+2024,Sumatera Selatan,Tambang,710,Besar
+2024,Sumatera Selatan,Transportasi,711,Besar
+2024,Bengkulu,Tekstil,854,Besar
+2024,Bengkulu,Industri Pengolahan,468,Sedang
+2024,Bengkulu,Makanan & Minuman,1037,Besar
+2024,Bengkulu,Otomotif,699,Besar
+2024,Bengkulu,Elektronik,1018,Besar
+2024,Bengkulu,Jasa,639,Besar
+2024,Bengkulu,Konstruksi,1150,Besar
+2024,Bengkulu,Pariwisata,558,Sedang
+2024,Bengkulu,Tambang,490,Sedang
+2024,Bengkulu,Transportasi,970,Besar
+2024,Lampung,Tekstil,819,Besar
+2024,Lampung,Industri Pengolahan,312,Sedang
+2024,Lampung,Makanan & Minuman,686,Besar
+2024,Lampung,Otomotif,508,Sedang
+2024,Lampung,Elektronik,1048,Besar
+2024,Lampung,Jasa,749,Besar
+2024,Lampung,Konstruksi,351,Sedang
+2024,Lampung,Pariwisata,1175,Besar
+2024,Lampung,Tambang,603,Besar
+2024,Lampung,Transportasi,337,Sedang
+2024,Kep. Bangka Belitung,Tekstil,670,Besar
+2024,Kep. Bangka Belitung,Industri Pengolahan,1055,Besar
+2024,Kep. Bangka Belitung,Makanan & Minuman,85,Kecil
+2024,Kep. Bangka Belitung,Otomotif,793,Besar
+2024,Kep. Bangka Belitung,Elektronik,402,Sedang
+2024,Kep. Bangka Belitung,Jasa,122,Kecil
+2024,Kep. Bangka Belitung,Konstruksi,697,Besar
+2024,Kep. Bangka Belitung,Pariwisata,1143,Besar
+2024,Kep. Bangka Belitung,Tambang,474,Sedang
+2024,Kep. Bangka Belitung,Transportasi,1048,Besar
+2024,Kep. Riau,Tekstil,757,Besar
+2024,Kep. Riau,Industri Pengolahan,610,Besar
+2024,Kep. Riau,Makanan & Minuman,877,Besar
+2024,Kep. Riau,Otomotif,1005,Besar
+2024,Kep. Riau,Elektronik,566,Sedang
+2024,Kep. Riau,Jasa,477,Sedang
+2024,Kep. Riau,Konstruksi,209,Sedang
+2024,Kep. Riau,Pariwisata,198,Kecil
+2024,Kep. Riau,Tambang,825,Besar
+2024,Kep. Riau,Transportasi,116,Kecil
+2024,DKI Jakarta,Tekstil,1063,Besar
+2024,DKI Jakarta,Industri Pengolahan,430,Sedang
+2024,DKI Jakarta,Makanan & Minuman,107,Kecil
+2024,DKI Jakarta,Otomotif,391,Sedang
+2024,DKI Jakarta,Elektronik,776,Besar
+2024,DKI Jakarta,Jasa,819,Besar
+2024,DKI Jakarta,Konstruksi,663,Besar
+2024,DKI Jakarta,Pariwisata,403,Sedang
+2024,DKI Jakarta,Tambang,165,Kecil
+2024,DKI Jakarta,Transportasi,711,Besar
+2024,Jawa Barat,Tekstil,502,Sedang
+2024,Jawa Barat,Industri Pengolahan,336,Sedang
+2024,Jawa Barat,Makanan & Minuman,1066,Besar
+2024,Jawa Barat,Otomotif,360,Sedang
+2024,Jawa Barat,Elektronik,257,Sedang
+2024,Jawa Barat,Jasa,667,Besar
+2024,Jawa Barat,Konstruksi,495,Sedang
+2024,Jawa Barat,Pariwisata,719,Besar
+2024,Jawa Barat,Tambang,682,Besar
+2024,Jawa Barat,Transportasi,104,Kecil
+2024,Jawa Tengah,Tekstil,961,Besar
+2024,Jawa Tengah,Industri Pengolahan,1085,Besar
+2024,Jawa Tengah,Makanan & Minuman,706,Besar
+2024,Jawa Tengah,Otomotif,1029,Besar
+2024,Jawa Tengah,Elektronik,564,Sedang
+2024,Jawa Tengah,Jasa,286,Sedang
+2024,Jawa Tengah,Konstruksi,397,Sedang
+2024,Jawa Tengah,Pariwisata,676,Besar
+2024,Jawa Tengah,Tambang,1177,Besar
+2024,Jawa Tengah,Transportasi,679,Besar
+2024,DI Yogyakarta,Tekstil,413,Sedang
+2024,DI Yogyakarta,Industri Pengolahan,370,Sedang
+2024,DI Yogyakarta,Makanan & Minuman,335,Sedang
+2024,DI Yogyakarta,Otomotif,198,Kecil
+2024,DI Yogyakarta,Elektronik,1157,Besar
+2024,DI Yogyakarta,Jasa,455,Sedang
+2024,DI Yogyakarta,Konstruksi,1027,Besar
+2024,DI Yogyakarta,Pariwisata,505,Sedang
+2024,DI Yogyakarta,Tambang,849,Besar
+2024,DI Yogyakarta,Transportasi,1062,Besar
+2024,Jawa Timur,Tekstil,833,Besar
+2024,Jawa Timur,Industri Pengolahan,509,Sedang
+2024,Jawa Timur,Makanan & Minuman,787,Besar
+2024,Jawa Timur,Otomotif,558,Sedang
+2024,Jawa Timur,Elektronik,530,Sedang
+2024,Jawa Timur,Jasa,163,Kecil
+2024,Jawa Timur,Konstruksi,798,Besar
+2024,Jawa Timur,Pariwisata,410,Sedang
+2024,Jawa Timur,Tambang,390,Sedang
+2024,Jawa Timur,Transportasi,819,Besar
+2024,Banten,Tekstil,810,Besar
+2024,Banten,Industri Pengolahan,1018,Besar
+2024,Banten,Makanan & Minuman,498,Sedang
+2024,Banten,Otomotif,884,Besar
+2024,Banten,Elektronik,360,Sedang
+2024,Banten,Jasa,311,Sedang
+2024,Banten,Konstruksi,455,Sedang
+2024,Banten,Pariwisata,192,Kecil
+2024,Banten,Tambang,391,Sedang
+2024,Banten,Transportasi,1174,Besar
+2024,Bali,Tekstil,293,Sedang
+2024,Bali,Industri Pengolahan,539,Sedang
+2024,Bali,Makanan & Minuman,61,Kecil
+2024,Bali,Otomotif,610,Besar
+2024,Bali,Elektronik,91,Kecil
+2024,Bali,Jasa,727,Besar
+2024,Bali,Konstruksi,643,Besar
+2024,Bali,Pariwisata,183,Kecil
+2024,Bali,Tambang,1140,Besar
+2024,Bali,Transportasi,1080,Besar
+2024,Nusa Tenggara Barat,Tekstil,997,Besar
+2024,Nusa Tenggara Barat,Industri Pengolahan,122,Kecil
+2024,Nusa Tenggara Barat,Makanan & Minuman,448,Sedang
+2024,Nusa Tenggara Barat,Otomotif,627,Besar
+2024,Nusa Tenggara Barat,Elektronik,908,Besar
+2024,Nusa Tenggara Barat,Jasa,179,Kecil
+2024,Nusa Tenggara Barat,Konstruksi,980,Besar
+2024,Nusa Tenggara Barat,Pariwisata,315,Sedang
+2024,Nusa Tenggara Barat,Tambang,842,Besar
+2024,Nusa Tenggara Barat,Transportasi,302,Sedang
+2024,Nusa Tenggara Timur,Tekstil,871,Besar
+2024,Nusa Tenggara Timur,Industri Pengolahan,213,Sedang
+2024,Nusa Tenggara Timur,Makanan & Minuman,144,Kecil
+2024,Nusa Tenggara Timur,Otomotif,882,Besar
+2024,Nusa Tenggara Timur,Elektronik,1183,Besar
+2024,Nusa Tenggara Timur,Jasa,385,Sedang
+2024,Nusa Tenggara Timur,Konstruksi,871,Besar
+2024,Nusa Tenggara Timur,Pariwisata,287,Sedang
+2024,Nusa Tenggara Timur,Tambang,430,Sedang
+2024,Nusa Tenggara Timur,Transportasi,948,Besar
+2024,Kalimantan Barat,Tekstil,532,Sedang
+2024,Kalimantan Barat,Industri Pengolahan,951,Besar
+2024,Kalimantan Barat,Makanan & Minuman,1098,Besar
+2024,Kalimantan Barat,Otomotif,1190,Besar
+2024,Kalimantan Barat,Elektronik,531,Sedang
+2024,Kalimantan Barat,Jasa,966,Besar
+2024,Kalimantan Barat,Konstruksi,1043,Besar
+2024,Kalimantan Barat,Pariwisata,1013,Besar
+2024,Kalimantan Barat,Tambang,586,Sedang
+2024,Kalimantan Barat,Transportasi,1152,Besar
+2024,Kalimantan Tengah,Tekstil,1085,Besar
+2024,Kalimantan Tengah,Industri Pengolahan,177,Kecil
+2024,Kalimantan Tengah,Makanan & Minuman,141,Kecil
+2024,Kalimantan Tengah,Otomotif,592,Sedang
+2024,Kalimantan Tengah,Elektronik,895,Besar
+2024,Kalimantan Tengah,Jasa,1038,Besar
+2024,Kalimantan Tengah,Konstruksi,496,Sedang
+2024,Kalimantan Tengah,Pariwisata,439,Sedang
+2024,Kalimantan Tengah,Tambang,721,Besar
+2024,Kalimantan Tengah,Transportasi,92,Kecil
+2024,Kalimantan Selatan,Tekstil,303,Sedang
+2024,Kalimantan Selatan,Industri Pengolahan,1133,Besar
+2024,Kalimantan Selatan,Makanan & Minuman,712,Besar
+2024,Kalimantan Selatan,Otomotif,516,Sedang
+2024,Kalimantan Selatan,Elektronik,336,Sedang
+2024,Kalimantan Selatan,Jasa,1060,Besar
+2024,Kalimantan Selatan,Konstruksi,827,Besar
+2024,Kalimantan Selatan,Pariwisata,394,Sedang
+2024,Kalimantan Selatan,Tambang,691,Besar
+2024,Kalimantan Selatan,Transportasi,431,Sedang
+2024,Kalimantan Timur,Tekstil,739,Besar
+2024,Kalimantan Timur,Industri Pengolahan,1129,Besar
+2024,Kalimantan Timur,Makanan & Minuman,506,Sedang
+2024,Kalimantan Timur,Otomotif,1032,Besar
+2024,Kalimantan Timur,Elektronik,132,Kecil
+2024,Kalimantan Timur,Jasa,1172,Besar
+2024,Kalimantan Timur,Konstruksi,198,Kecil
+2024,Kalimantan Timur,Pariwisata,239,Sedang
+2024,Kalimantan Timur,Tambang,932,Besar
+2024,Kalimantan Timur,Transportasi,312,Sedang
+2024,Kalimantan Utara,Tekstil,1153,Besar
+2024,Kalimantan Utara,Industri Pengolahan,449,Sedang
+2024,Kalimantan Utara,Makanan & Minuman,813,Besar
+2024,Kalimantan Utara,Otomotif,658,Besar
+2024,Kalimantan Utara,Elektronik,834,Besar
+2024,Kalimantan Utara,Jasa,150,Kecil
+2024,Kalimantan Utara,Konstruksi,869,Besar
+2024,Kalimantan Utara,Pariwisata,869,Besar
+2024,Kalimantan Utara,Tambang,469,Sedang
+2024,Kalimantan Utara,Transportasi,173,Kecil
+2024,Sulawesi Utara,Tekstil,471,Sedang
+2024,Sulawesi Utara,Industri Pengolahan,1136,Besar
+2024,Sulawesi Utara,Makanan & Minuman,817,Besar
+2024,Sulawesi Utara,Otomotif,532,Sedang
+2024,Sulawesi Utara,Elektronik,568,Sedang
+2024,Sulawesi Utara,Jasa,204,Sedang
+2024,Sulawesi Utara,Konstruksi,141,Kecil
+2024,Sulawesi Utara,Pariwisata,1031,Besar
+2024,Sulawesi Utara,Tambang,504,Sedang
+2024,Sulawesi Utara,Transportasi,647,Besar
+2024,Sulawesi Tengah,Tekstil,559,Sedang
+2024,Sulawesi Tengah,Industri Pengolahan,435,Sedang
+2024,Sulawesi Tengah,Makanan & Minuman,454,Sedang
+2024,Sulawesi Tengah,Otomotif,295,Sedang
+2024,Sulawesi Tengah,Elektronik,791,Besar
+2024,Sulawesi Tengah,Jasa,710,Besar
+2024,Sulawesi Tengah,Konstruksi,699,Besar
+2024,Sulawesi Tengah,Pariwisata,950,Besar
+2024,Sulawesi Tengah,Tambang,114,Kecil
+2024,Sulawesi Tengah,Transportasi,1086,Besar
+2024,Sulawesi Selatan,Tekstil,262,Sedang
+2024,Sulawesi Selatan,Industri Pengolahan,291,Sedang
+2024,Sulawesi Selatan,Makanan & Minuman,542,Sedang
+2024,Sulawesi Selatan,Otomotif,387,Sedang
+2024,Sulawesi Selatan,Elektronik,222,Sedang
+2024,Sulawesi Selatan,Jasa,721,Besar
+2024,Sulawesi Selatan,Konstruksi,213,Sedang
+2024,Sulawesi Selatan,Pariwisata,514,Sedang
+2024,Sulawesi Selatan,Tambang,1044,Besar
+2024,Sulawesi Selatan,Transportasi,546,Sedang
+2024,Sulawesi Tenggara,Tekstil,749,Besar
+2024,Sulawesi Tenggara,Industri Pengolahan,444,Sedang
+2024,Sulawesi Tenggara,Makanan & Minuman,752,Besar
+2024,Sulawesi Tenggara,Otomotif,357,Sedang
+2024,Sulawesi Tenggara,Elektronik,232,Sedang
+2024,Sulawesi Tenggara,Jasa,678,Besar
+2024,Sulawesi Tenggara,Konstruksi,559,Sedang
+2024,Sulawesi Tenggara,Pariwisata,595,Sedang
+2024,Sulawesi Tenggara,Tambang,673,Besar
+2024,Sulawesi Tenggara,Transportasi,643,Besar
+2024,Gorontalo,Tekstil,793,Besar
+2024,Gorontalo,Industri Pengolahan,603,Besar
+2024,Gorontalo,Makanan & Minuman,70,Kecil
+2024,Gorontalo,Otomotif,603,Besar
+2024,Gorontalo,Elektronik,446,Sedang
+2024,Gorontalo,Jasa,674,Besar
+2024,Gorontalo,Konstruksi,154,Kecil
+2024,Gorontalo,Pariwisata,241,Sedang
+2024,Gorontalo,Tambang,66,Kecil
+2024,Gorontalo,Transportasi,1193,Besar
+2024,Sulawesi Barat,Tekstil,442,Sedang
+2024,Sulawesi Barat,Industri Pengolahan,474,Sedang
+2024,Sulawesi Barat,Makanan & Minuman,178,Kecil
+2024,Sulawesi Barat,Otomotif,621,Besar
+2024,Sulawesi Barat,Elektronik,78,Kecil
+2024,Sulawesi Barat,Jasa,1170,Besar
+2024,Sulawesi Barat,Konstruksi,1083,Besar
+2024,Sulawesi Barat,Pariwisata,291,Sedang
+2024,Sulawesi Barat,Tambang,281,Sedang
+2024,Sulawesi Barat,Transportasi,838,Besar
+2024,Maluku,Tekstil,764,Besar
+2024,Maluku,Industri Pengolahan,808,Besar
+2024,Maluku,Makanan & Minuman,851,Besar
+2024,Maluku,Otomotif,825,Besar
+2024,Maluku,Elektronik,775,Besar
+2024,Maluku,Jasa,249,Sedang
+2024,Maluku,Konstruksi,994,Besar
+2024,Maluku,Pariwisata,128,Kecil
+2024,Maluku,Tambang,1005,Besar
+2024,Maluku,Transportasi,905,Besar
+2024,Maluku Utara,Tekstil,516,Sedang
+2024,Maluku Utara,Industri Pengolahan,630,Besar
+2024,Maluku Utara,Makanan & Minuman,989,Besar
+2024,Maluku Utara,Otomotif,498,Sedang
+2024,Maluku Utara,Elektronik,136,Kecil
+2024,Maluku Utara,Jasa,150,Kecil
+2024,Maluku Utara,Konstruksi,1081,Besar
+2024,Maluku Utara,Pariwisata,894,Besar
+2024,Maluku Utara,Tambang,136,Kecil
+2024,Maluku Utara,Transportasi,92,Kecil
+2024,Papua,Tekstil,457,Sedang
+2024,Papua,Industri Pengolahan,713,Besar
+2024,Papua,Makanan & Minuman,1090,Besar
+2024,Papua,Otomotif,197,Kecil
+2024,Papua,Elektronik,326,Sedang
+2024,Papua,Jasa,281,Sedang
+2024,Papua,Konstruksi,415,Sedang
+2024,Papua,Pariwisata,485,Sedang
+2024,Papua,Tambang,448,Sedang
+2024,Papua,Transportasi,548,Sedang
+2024,Papua Barat,Tekstil,589,Sedang
+2024,Papua Barat,Industri Pengolahan,612,Besar
+2024,Papua Barat,Makanan & Minuman,491,Sedang
+2024,Papua Barat,Otomotif,822,Besar
+2024,Papua Barat,Elektronik,399,Sedang
+2024,Papua Barat,Jasa,569,Sedang
+2024,Papua Barat,Konstruksi,187,Kecil
+2024,Papua Barat,Pariwisata,1041,Besar
+2024,Papua Barat,Tambang,417,Sedang
+2024,Papua Barat,Transportasi,409,Sedang
