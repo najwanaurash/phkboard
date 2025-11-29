@@ -40,10 +40,6 @@ Dashboard interaktif untuk menganalisis tren pemutusan hubungan kerja (PHK) di I
 - Preview data yang difilter
 - Statistik deskriptif
 
-## 🚀 Cara Menjalankan
-
-### Instalasi Dependencies
-
 ## 👥 Tim Pengembang
 
 ### **Najwa Naura Salsabillah Herdiyana**
@@ -67,8 +63,5 @@ Dashboard interaktif untuk menganalisis tren pemutusan hubungan kerja (PHK) di I
 
 ### 🎯 Kolaborasi
 Tim bekerja secara kolaboratif dalam pengembangan dashboard analitik ini, menggabungkan keahlian dalam data analysis dan machine learning untuk menciptakan solusi yang komprehensif dalam menganalisis tren PHK di Indonesia.
-
-```bash
-pip install -r requirements.txt
 
 
